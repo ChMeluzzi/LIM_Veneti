@@ -1,0 +1,401 @@
+001 LOR_TRAS   mi chiamo lorenzo raniero
+               (0,1)
+002 LOR_TRAS   son nato a valdaio in provincia di vicenza
+               (0,1)
+003 LOR_TRAS   a un paesino a settecento metri d'altezza sopra a valdaio 
+               (1,2)
+004 LOR_TRAS    e niente sono arrivato qua
+               (0,0)
+005 LOR_TRAS   anzi cominciamo dalla prima
+               (0,1)
+006 LOR_TRAS   la avevo il papà la mamma e sei sorelle
+               (0,4)
+007 LOR_TRAS   poi avevamo le mucche
+008 LOR_TRAS   nella stalla, le portavo in montagna a pascolare, avevamo una baita
+               (0,1)
+009 LOR_TRAS   tante volte si dormiva in baita sopra alle mucche
+               (0,1)
+010 LOR_TRAS    poi si tornava giù, si mangiava a casa e finchè ce n'è / si imparava a mungere, portarle a cas, portarli al pascolo poi finchè ce n'è
+               (0,0)
+011 LOR_TRAS    quando si ritornava a casa, il periodo che portavamo giù le mucche si / arrivavamo alla stalla 
+               (0,1)
+012 LOR_TRAS   e avevam- abitavamo in una contrada 
+               (0,0)
+013 LOR_TRAS   quasi tutti mezzi parenti, eravamo una decina di di di famiglie
+               (0,2)
+014 LOR_TRAS   le case erano tutte attaccate insieme
+               (0,2)
+015 LOR_TRAS   e avevamo noi / avevamo  la stalla davanti , avevamo l'abbeveratorio con le mucche di quei grossi proprio davanti la la-la casa 
+               (0,1)
+016 LOR_TRAS   e li eh si andava avanti solo e:  / avevamo delle sorelle più anziane che facevano
+               (0,1)
+017 LOR_TRAS   un po' di lavoretti così e noi giovani / io avevo quindic'anni, si son venuto via la a quindici anni perciò la mia infanzio l'ho fatta là
+               (0,1)
+018 LOR_TRAS   ho fatto la quinta / la sesta elementare perchè la c'era solo quella
+               (0,0)
+019 LOR_TRAS   si faceva la quinta poi ancora un anno in sesta
+               (0,1)
+020 LOR_TRAS   e bon
+               (0,1)
+021 LOR_TRAS   le altre scuole non si poteva perchè non c'era questi, perchè dovevamo prendere il pullman, andare giu a valdaio, c'erano otto chilometri da fare 
+               (0,1)
+022 LOR_TRAS   e lì non c'era la possibilità di andare a studiare
+               (1,0)
+023 LOR_TRAS   e niente io sono stato la, ho fatto solo questa scuola qua, divertimenti là / a me piaceva tanto giocare con i ragazzi, coi miei colleghi 
+               (0,1)
+024 LOR_TRAS   si giocava ah allora noi in veneto lo disoma si gioca a cic- a cechete 
+               (0,1)
+025 LOR_TRAS   cechete sarebbero le palline che ci sono adesso, le biglie
+               (0,4)
+026 LOR_TRAS   facevamo un cerchio per terra
+               (0,1)
+027 LOR_TRAS   mettevamo due tre biglie dentro 
+               (0,1)
+028 LOR_TRAS   e poi intorno
+               (0,1)
+029 LOR_TRAS   tiravi la biglia cosi diciamo 
+               (0,1)
+030 LOR_TRAS   se rimaneva dentro te la fregavano, dovevi buttarne fuori una di quelle che c'era dentro 
+               (0,1)
+031 LOR_TRAS   se riuscivi a buttarle fuori e ritorn- tornavi a ribattere intorno al colpo per vedere se riuscivi a fregargli queste qua
+               (0,1)
+032 LOR_TRAS   e sennò si giocava a chiodi
+               (0,0)
+033 LOR_TRAS   chiodi cosa si faceva
+               (0,0)
+034 LOR_TRAS   c'era un pezzo di legno alto cosi
+               (0,1)
+035 LOR_TRAS   si recuperava chiodi vecchi brutti, si mettevano sopra
+               (0,1)
+036 LOR_TRAS   e poi a una certa distanza con una pietra si tirava e il rpimo che prendeva sto pezzettino di legno si prendeva tutti i chiodi e si andava avanti cosi
+               (0,1)
+037 LOR_TRAS   e sennò poi si giocava, noi dicevamo a spegnaspegna
+               (0,0)
+038 LOR_TRAS   eè una / è un gioco che si giocava in gruppo 
+               (0,6)
+039 LOR_TRAS   cioè si decideva due 
+               (0,5)
+040 LOR_TRAS   correvano dietro a tutti gli altri
+               (0,0)
+041 LOR_TRAS   si partiva, due erano qua , gli altri tutti là, si diceva "via!" e uno andava per conto suo, ognuno per conto suo e questi due qua dovevano prenderli, portarli
+042 LOR_TRAS   toccarli e riportarli a- diciamo al palo
+               (0,0)
+043 LOR_TRAS   si attaccava al palo, ognuno che arrivava preso si metteva la mano 
+               (0,0)
+044 LOR_TRAS   finchè si finiva il gioco. se arrivava uno di questi qua
+               (0,1)
+045 LOR_TRAS   che riusciva a liberarli
+               (0,0)
+046 LOR_TRAS   da dove toccavi in avanti, partivano di nuovo da via così
+               (0,0)
+047 LOR_TRAS   era un gioco proprio di compagnia in pratica
+               (0,0)
+048 LOR_TRAS   e niente si giocava così
+               (0,1)
+049 LOR_TRAS   d'inverno era bellissimo
+               (0,0)
+050 LOR_TRAS   ci divertivamo un mucchio perchè veniva tanta neve
+               (0,1)
+051 LOR_TRAS   eh noi abitavamo
+052 LOR_TRAS   in una contrada si può dire bassa e poi c'era la salita che andava su un duecento, trecento metri, c'era la scuola, la chiesa 
+               (0,0)
+053 LOR_TRAS   e allora cosa si faceva
+               (0,0)
+054 LOR_TRAS   qua la chiamano slitta noi la la chiamavamo snola 
+               (0,0)
+055 LOR_TRAS   si partiva sopra
+               (0,1)
+056 LOR_TRAS   in cima , andavamo tutti sopra
+               (0,0)
+057 LOR_TRAS   si attaccava una slitta vicino l'altra
+               (0,1)
+058 LOR_TRAS   e partivamo tutti sopra giu
+               (0,0)
+059 LOR_TRAS   curve, non curve e andavamo giu e poi ogni tanto 
+               (0,0)
+060 LOR_TRAS   ogni tanto si prendeva il giro, perchè nella curva si prendeva il giro
+               (0,1)
+061 LOR_TRAS   e poi una cosa che mi è sempre rimasta qua 
+               (0,1)
+062 LOR_TRAS   nella neve
+               (0,0)
+063 LOR_TRAS   un anno ne aveva fatta un mucchio un mucchio un mucchio e cosa abbiam fatto, abbiam fatto le gallerie
+               (0,0)
+064 LOR_TRAS   passavamo sotto la galleria
+               (0,0)
+065 LOR_TRAS   da una parte, e andavamo fuori dall'altra e li si giocava sempre cosi 
+               (0,0)
+066 LOR_TRAS    l'unica cosa che non c'erano gli stivali che c'è adesso 
+               (0,0)
+067 LOR_TRAS   le chiamavo sgambre
+               (0,1)
+068 LOR_TRAS   le sgambre sono la suola di legno 
+               (0,1)
+069 LOR_TRAS    e il cuoio che va tutt'intorno
+               (0,1)
+070 LOR_TRAS   quelle li erano  le scarpe che c'erano allora
+071 LOR_TRAS   la le chiamavo sgambre, e quado eri a casa  eri bagnato fino qua, le mettevi sulla stufa / vicino la stufa a asciugare e poi il giorno dopo si ricominciava
+               (0,0)
+072 LOR_TRAS   poi cosa posso dire... eh quella contrada li c'era un forno gigantesco in mezzo
+               (0,0)
+073 LOR_TRAS   e allora li cosa si faceva, si faceva il pane
+               (0,1)
+074 LOR_TRAS   e cosa facevamo, magari si scaldava sto forno
+               (0,1)
+075 LOR_TRAS   e poi il pane lo si faceva in tre o quattro famiglie
+               (0,0)
+076 LOR_TRAS   perchè una volta che era caldo , tiravi fuori il tuo e mettevi dentro l'altro
+               (0,0)
+077 LOR_TRAS   li facevamo / non facevamo pagnotte, facevamo tutti eh come posso dire, rotolini e poi li legavi insieme e veniva una, una / le ciamava la ciopa 
+               (0,0)
+078 LOR_TRAS   la ciopa de pan
+               (0,1)
+079 LOR_TRAS   con due cornetti dalle parti e quattro in mezzo
+               (0,1)
+080 LOR_TRAS   e li ne facevamo una certa, perchè dopo la mettevi nella cesta , la attaccavi in cantina ,in s- in casa,  e la tenevi li finchè non avevi finito
+081 LOR_TRAS   e tutte le volte capitava cosi, quand'era finito uno, finiot l'altro, si scaldava sto benedetto forno 
+               (0,0)
+082 LOR_TRAS   e poi metteva dentro uno poi tirava fuori, metteva dentro l'altro e si teneva sempre in caldo cosi 
+               (0,1)
+083 LOR_TRAS   poi cos'è successo che...mie sorelle / qui avevamo un parente qui in piemonte  
+               (0,0)
+084 LOR_TRAS   era il fratello di mia mamma
+               (0,0)
+085 LOR_TRAS   era già qua,  e le mie sorelle hanno incominciato a venire su , quelle più grandi
+               (0,0)
+086 LOR_TRAS   sono venute su per prime loro due e una ha cominciato a andar fare il servizio, el ciamavo il servizio  da azzegna vallemosso 
+087 LOR_TRAS   faceva i lavori la 
+               (0,0)
+088 LOR_TRAS   è arrivata anche l'altre , è andata anche lei
+089 LOR_TRAS   e piano piano si può dire, abbiamo iniziato ad aumentare un po' di questi
+               (0,1)
+090 LOR_TRAS   e abbiam / siam partiti poi da la con un camion di mio cugino che era il mio padrino anche, l'è / faceva l'autotrasportatore 
+               (0,0)
+091 LOR_TRAS   la avevamo le mucche, abbiam caricato tutto sul camio a rimorchio 
+               (0,1)
+092 LOR_TRAS   mucche quello che si poteva portare su
+               (0,1)
+093 LOR_TRAS   quell'autostrada non finiva mai, tutti i ponti  che abbiam passato sembrava di non, di non arrivarci mai
+               (0,1)
+094 LOR_TRAS   perchè io la, l'autostrada non sapevo neanche che cos'era
+               (0,1)
+095 LOR_TRAS   là c'era solo strade di ghiaia e andavi a piedi o in bici qualche volta, quando il papà ti lasciava andare in bici
+               (0,1)
+096 LOR_TRAS   e in autostrada secondo me, mi sembrava infinita
+               (0,1)
+097 LOR_TRAS   siamo arrivati qua, siamo arrivat- siamo andati ad abitare a lessona 
+               (0,1)
+098 LOR_TRAS   lì c'era una cascina
+099 LOR_TRAS   che c'era un bel mucchio di terreno, con molta vigna
+               (0,0)
+100 LOR_TRAS   c'era la casa alta tre piani, con la cantina sotto  bellissima, perchè era bella ancora quella casa 
+               (0,1)
+101 LOR_TRAS   e davanti avevamo la stalla 
+               (0,1)
+102 LOR_TRAS   e avevam- siam partiti con due mucche 
+               (0,1)
+103 LOR_TRAS    li l'abbiam tenute un bel po' queste mucche  poi facevamo tanto vino
+               (0,1)
+104 LOR_TRAS   e li era una gioia quando arrivava la vendemmia
+               (0,1)
+105 LOR_TRAS   perchè li si pestava il vino con i piedi , nella cantina avevamo due vasche, erano due metri per due metri  di cemento  già
+               (0,1)
+106 LOR_TRAS   alte che io arrivavo appena appena fuori
+               (0,0)
+107 LOR_TRAS   si buttava tutto li e li pesta pesta li , era una una gioia 
+               (0,1)
+108 LOR_TRAS    pestato tutto, poi c0avevamo il torchio e bon si torchiava con quello
+               (0,0)
+109 LOR_TRAS   e allora alla fine poi..
+               (0,0)
+110 LOR_TRAS   cominciato a aumentare un po' la famiglia 
+               (0,0)
+111 LOR_TRAS   si han cominciato a andà a lavorare, io son venuto qua che aveva appena finito le scuole
+               (0,0)
+112 LOR_TRAS   e qui per andà a lavorare ho cominciato ad andare in officina
+               (0,0)
+113 LOR_TRAS   e un'officina che cosa faceva lì, erano un'officina di telai, aggiustavano meccani- na roba del genere
+               (0,0)
+114 LOR_TRAS   e li el bocia doveva lavare tutti sti pezzi rotti malandati
+               (0,0)
+115 LOR_TRAS   con la benzina...a me quella li non mi è mai andata giù
+               (0,1)
+116 LOR_TRAS   a me non piaceva sporcarmi
+               (0,0)
+117 LOR_TRAS   ho fatto sei mesi
+               (0,1)
+118 LOR_TRAS   poi ho detto basta, io qui non ci entro più
+119 LOR_TRAS   so andato dentro in filatura
+               (0,0)
+120 LOR_TRAS   e c'era la filatura del giacomo piana, allora era una grossa ditta, aveva la volpe
+               (0,0)
+121 LOR_TRAS   io ho fatto qualche anno
+               (0,0)
+122 LOR_TRAS   li non m'ha mai / non ho mai lavorato sulle macchine, ho sempre / davo l'olio alle cilindrate dei rei in filatura
+               (0,1)
+123 LOR_TRAS   poi, prima del sessantotto , nel...no in quello / son andato li nel sessanta: sessantasette , eh così
+               (0,0)
+124 LOR_TRAS   e cos'han fatto, han fatto la fabbrica nuova a quaregna
+               (0,0)
+125 LOR_TRAS   la fabbrica nuova a quaregna  li avevamo due piani, sotto c'avevamo messo ritorcitura, spatura , vinatura 
+               (0,0)
+126 LOR_TRAS   e sopra avevamo tutta la preparazione ri
+               (0,0)
+127 LOR_TRAS   nel sessantotto è arrivata quell'alluvione, noi avevamo gli armadietti di ferro che ci sono ancora in giro
+               (0,0)
+128 LOR_TRAS   erano tutti sotto l'acqua
+               (0,1)
+129 LOR_TRAS   difatti abbiam fatto poi delle foto, c'era ancora la striscia sotto
+               (0,1)
+130 LOR_TRAS   e li ho imparato a fare l'aiutante 
+               (0,0)
+131 LOR_TRAS   poi ho passato a assistente
+               (0,1)
+132 LOR_TRAS   avevo un grande direttore che m'ha insegnato tanto
+               (0,0)
+133 LOR_TRAS   che tral'altro poverino è morto dopo qualche anno, è giovane questo qua, cinquant'anni
+               (0,0)
+134 LOR_TRAS   e: m'ha insegnato tanto sia nel lavoro che comportarmi con le persone, cogli operai  , diciamo li
+               (0,0)
+135 LOR_TRAS   lui chiedeva sempre / una volta si diceva vieni a fare la mezza  in fabbrica, si faceva otto ore poi ne facevi ancora quattro
+               (0,0)
+136 LOR_TRAS   e c'era sempre bisogno 
+               (0,0)
+137 LOR_TRAS   e allora: questa qua è un'altra cosa che mi viene sempre in mente
+               (0,1)
+138 LOR_TRAS   quando andavo a chiedere / perchè oramai eravamo una famiglia la, si dava del tu
+               (0,1)
+139 LOR_TRAS   e questo qua una volta mi fa 
+               (0,0)
+140 LOR_TRAS   "senta" / lui mi dava del lei / " senta Lorenzo 
+               (0,0)
+141 LOR_TRAS   quando va a chiedere alle gente di lavorare non le metta la mano sulla spalla e dica " vienghi a lavorare stasera? vieni a fare la mezza?"
+               (0,0)
+142 LOR_TRAS   perchè devi tenere le distanze dall'operaio
+               (0,0)
+143 LOR_TRAS   perchè sennò poi l'operaio ne approfitta
+               (0,1)
+144 LOR_TRAS   e questa qui me l'ho sempre messa qua
+               (0,0)
+145 LOR_TRAS   e:: l'ho sempre mantenuta
+               (0,0)
+146 LOR_TRAS   so' stato diversi anni li, poi ho cambiato ditta
+               (0,1)
+147 LOR_TRAS   so' andato a lavorare giu a letta, ho fatto / ho diretto una fabbrica la che avevano messo su una fabbrica nuova , ho fatto un contratto  per due annni poi 
+               (0,1)
+148 LOR_TRAS   e siccome che la fabbrica continuava sempre a aumentare e lo stipendio era sempre il solito, dice senti padrone 
+               (0,0)
+149 LOR_TRAS   senti se qui va avanti cosi ..io
+               (0,0)
+150 LOR_TRAS   o rettifichiamo anche lo stipendio..
+               (0,0)
+151 LOR_TRAS   o seenò io me ne vado 
+               (0,0)
+152 LOR_TRAS   poi han fatto / erano tre fratelli , han fatto una / si son parlati insieme, non hanno accettato allora io
+               (0,1)
+153 LOR_TRAS   prima di venir via
+               (0,1)
+154 LOR_TRAS   anzi ero andato la con la famiglia, con la moglie
+               (0,1)
+155 LOR_TRAS   e la abbiam comprato il primo figlio
+               (0,1)
+156 LOR_TRAS   il figlio piccolo, poi anche li è una storia lunghissima ..comunque
+               (0,1)
+157 LOR_TRAS   mi son stufato, siam venuti via,siam venuti qua a cossato
+               (0,1)
+158 LOR_TRAS   a cossato, li a: alla masseria
+               (0,1)
+159 LOR_TRAS   poi li siam stati un paio d'anni, poi  siam andati ad abitare giu dai miei suoceri, sopra 
+               (0,0)
+160 LOR_TRAS   eh mio suocero continuava a dirmi " Lori comprate la casa, lori comprati la casa !"  
+161 LOR_TRAS   lui palrava sempre in veneto e dice " ma va che io sto bene cosi" e poi alla fine abbiam comprato casa li dove siamo adesso in via quintino sella
+               (0,0)
+162 LOR_TRAS   e ci siamo aggiustati li, poi li è nato l'altro figlio ah
+               (0,0)
+163 LOR_TRAS   ma io che mi ricordo cose brutte qua non ne ho / non me le son trovate proprio con la pa- con la gente 
+               (0,1)
+164 LOR_TRAS   dov- quella che ho frequentato anche perchè io avev- poi un amico 
+               (0,0)
+165 LOR_TRAS   mio cugino diciamo eh:
+               (0,0)
+166 LOR_TRAS   eravamo sempre insieme
+               (0,0)
+167 LOR_TRAS   eravamo sempre insieme col motorino e finchè ce n'è
+               (0,0)
+168 LOR_TRAS   robe belle...ne ho fatte tante , ne ho viste tante
+               (0,1)
+169 LOR_TRAS   e penso che non posso descriminare nessuno io qua, anche con la lingua pian pianino un po' veneto un po' piemontese son riuscito a amalgamarmi in pratica
+               (0,1)
+170 LOR_TRAS   ah in veneto / le cose principali son queste qua perchè io mi ricordo sempre che andavo a pascolare quelle mucche in montagna da solo
+               (0,0)
+171 LOR_TRAS   e poi una volta , una volta ero sopra  , per la contrada era già abbastanza bassa
+               (0,0)
+172 LOR_TRAS   l'altra era un po' in alto
+               (0,1)
+173 LOR_TRAS   e c'erano le mucche da guardare
+               (0,0)
+174 LOR_TRAS   'ste mucche da guardare ogni tanto si inforcavano tra di loro
+               (0,0)
+175 LOR_TRAS   e una volta una, la chiamavamo mora questa qua
+               (0,0)
+176 LOR_TRAS   si è inforcata con un'altra, si è spaccata un un un corno 
+               (0,0)
+177 LOR_TRAS    ho cominciato a urlare da mate, perchè mi sentivano già da lontano
+               (0,0)
+178 LOR_TRAS   quella li è una cosa che anche quella li diciamo, se ci penso su mi viene sempre in mente
+               (0,0)
+179 LOR_TRAS   allora io ero a lessona / abitavo a lessona, lei abitava a castellengo 
+               (0,0)
+180 LOR_TRAS   io aveva una moto, prima avevo il motorino poi ho comprato una moto gilera
+               (0,0)
+181 LOR_TRAS    una moto gilera, e allora andavo a trovare lei 
+               (0,0)
+182 LOR_TRAS   e siccome che i suoi coetanei di castellengo non volevano stranieri
+               (0,0)
+183 LOR_TRAS   e io ero uno straniero rispetto a loro no? 
+               (0,0)
+184 LOR_TRAS    e allora quando sentivano arrivare sta moto
+               (0,2)
+185 LOR_TRAS   lui / lei abitava sotto il castello di castellengo e c'era la strada che passava
+               (0,1)
+186 LOR_TRAS   io quando arrivavo cosa succedeva
+               (0,0)
+187 LOR_TRAS   che tra l'altro c'era anche un mio cognato
+               (0,0)
+188 LOR_TRAS   gli altri tre o quattro ragazzi che erano insieme si nascondevano su per il bosco
+               (0,1)
+189 LOR_TRAS   e quando sentivano arrivare la moto da lontano si preparavano carichi di pietre 
+               (0,0)
+190 LOR_TRAS   tante volte capitava, poi alla fine si sono resi conto che non valeva la pena
+               (0,1)
+191 LOR_TRAS   tanto io con lei ci andavo lo stesso
+               (0,0)
+192 LOR_TRAS   e poi un'altra cosa anche / adesso ritornando al matrimonio 
+               (0,0)
+193 LOR_TRAS   che lei si è sposà- si è già sposati / io dovevao andare a visita militare un anno, m'ha fatto revidibile perchè ero magro
+               (0,0)
+194 LOR_TRAS   m'ha fatto revidibile, l'anno dopo le ho detto con lei " se quest'anno  mi riformulano ci sposiamo " perchè  lei  alle undici doveva essere a casa
+               (0,1)
+195 LOR_TRAS   sennò [fischia] erano botte
+               (0,1)
+196 LOR_TRAS   son andato alla visita, mi han fatto revidibile / mi han fatto riformato, dice bon, quest'anno ci sposiamo
+               (0,0)
+197 LOR_TRAS   per fine dell'anno  ci siam sposati così abbiam portato via lei dal padre 
+               (0,0)
+198 LOR_TRAS    e buonanotte
+               (0,0)
+199 LOR_TRAS   questa è la mia vita ..più o meno, come posso dire
+               (0,0)
+200 LOR_TRAS   non raccontata bene tutta perchè  il tempo non non ce lo permette sennò qui ce ne sarebbe delle cose da raccontare
+               (0,1)
+201 LOR_TRAS   però io mi trovo bene adesso con , con lei
+               (0,0)
+202 LOR_TRAS   con le mie nipoti che mi vogliono bene
+               (0,0)
+203 LOR_TRAS   ne ho quattro
+               (0,0)
+204 LOR_TRAS   due figli, anche questa, due figli tutti e due separati
+               (0,0)
+205 LOR_TRAS   abbiamo due / quattro nipoti , quattro femmine
+               (0,0)
+206 LOR_TRAS   e quando sono in casa, beato fra le donne perchè tutte femmine!

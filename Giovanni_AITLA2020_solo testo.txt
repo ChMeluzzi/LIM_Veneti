@@ -1,0 +1,363 @@
+001 GIOV_TRAS   io sono Borin Gianni, Giovanni
+                (0,0)
+002 GIOV_TRAS   nato a Mussedici o Arca Petrarca in provincia di Padova
+                (1,9)
+003 GIOV_TRAS   sono arrivato qui nel sessantatré
+                (1,4)
+004 GIOV_TRAS   'pettate
+                (0,3)
+005 GIOV_TRAS   in tre
+                (0,1)
+006 GIOV_TRAS   perché conoscevo / mia sorella abitava già qui / io ho tre sorelle
+                (0,5)
+007 GIOV_TRAS   una a milano, una a ferrara
+                (0,4)
+008 GIOV_TRAS   e una qua
+                (0,6)
+009 GIOV_TRAS   e: siamo venuti su in tre ragazzi, io facevo già l'imbianchino nel veneto
+                (0,1)
+010 GIOV_TRAS   con tredici anni
+                (0,0)
+011 GIOV_TRAS   a quattordici ero una regola / della gente di qua, un signore che faceva l'imbianchino
+                (0,3)
+012 GIOV_TRAS   ha detto "vieni su vieni su vieni su"
+                (0,1)
+013 GIOV_TRAS   mia sorella: e: abitava però io non sono andato a casa sua
+                (0,1)
+014 GIOV_TRAS   sono arrivato in primavera
+                (0,1)
+015 GIOV_TRAS   un...
+                (3,6)
+016 GIOV_TRAS   ancora un po', poi
+                (0,2)
+017 GIOV_TRAS   eh abbiamo incominciato a lavorare, mi hanno portato dalla mami a mangiare e dormire li però eh...
+                (1,3)
+018 GIOV_TRAS   nel veneto guadagnavo
+                (0,1)
+019 GIOV_TRAS   centocinquanta lire al me- all'ora
+                (0,3)
+020 GIOV_TRAS   e qui me ne davan due e cinquanta perciò mi sembrava un buon affare
+                (0,1)
+021 GIOV_TRAS   quando me ne sono accorto dopo due  tre mesi che non avev- non potevo
+                (0,3)
+022 GIOV_TRAS   eh allora m'han detto 
+                (0,5)
+023 GIOV_TRAS   ti portiamo in una casa vecchia
+                (0,2)
+024 GIOV_TRAS   non abitava nessuno a cossato, dove adesso c'è la banca sella
+                (0,1)
+025 GIOV_TRAS   e siamo rimasti li tutto l'inverno
+                (0,2)
+026 GIOV_TRAS   in una bran- in una brandina
+                (0,1)
+027 GIOV_TRAS   e due coperte...vestito dormivo
+                (0,0)
+028 GIOV_TRAS   perché faceva freddo e non c'erano: i vetri nelle finestre
+                (0,1)
+029 GIOV_TRAS   avevo messo un nylon
+                (0,1)
+030 GIOV_TRAS   i miei...
+                (1,0)
+031 GIOV_TRAS   i miei amici a: prima della primavera son scappati perché han detto " eh li stavamo male ma qui era peggio" 
+                (0,0)
+032 GIOV_TRAS   io ho tenuto duro
+                (0,1)
+033 GIOV_TRAS   e mia sorella ha detto " vieni da me"
+                (0,3)
+034 GIOV_TRAS   però non son resistito perché anche lei aveva un figlio ,faceva otto dieci ore,  il marito lavorava e il figlio aveva
+                (0,1)
+035 GIOV_TRAS   sei sette anni meno di me
+                (0,1)
+036 GIOV_TRAS   e: non poteva tenermi
+                (0,8)
+037 GIOV_TRAS   allora cos'ho fatto, ho detto provo a far venire su i miei genitori
+                (0,4)
+038 GIOV_TRAS   che erano abbastanza vecchi
+                (0,9)
+039 GIOV_TRAS   eh siamo andati ad abitare in una casa
+                (0,1)
+040 GIOV_TRAS   qui vicino a:
+                (0,1)
+041 GIOV_TRAS   a la strona a cossato
+                (0,1)
+042 GIOV_TRAS   dove nel sessantotto è venuta l'alluvione, io sono stato alluvionato anche
+                (0,0)
+043 GIOV_TRAS   l'acqua è entrata nella mia casetta brutta
+                (0,5)
+044 GIOV_TRAS   e: e ci siam salvati perchè siamo andati su nel- nella:
+                (0,0)
+045 GIOV_TRAS   come si di- inta mansarda
+                (0,1)
+046 GIOV_TRAS   è ancora lì quella vè casetta li, disabitata
+                (0,5)
+047 GIOV_TRAS   e son andato , ho cominciato a lavorare: mi sono inserito bene, poi nel momento dell'alluvione i miei erano già / erano persone anziane, vivevano nel veneto, erano / io allora avevo la quinta ,mio papà la terza, ma era un uomo intelligente
+                (0,0)
+048 GIOV_TRAS   il brutto era che beveva
+                (0,4)
+049 GIOV_TRAS   mio papà come i veneti beveva
+                (0,5)
+050 GIOV_TRAS   e: eh siamo andati /stati lì
+                (0,2)
+051 GIOV_TRAS   eh io ho cominciato a lavorare / no iho sempre lavorato, con l'alluvione sono andato a lavorare dal fila 
+                (0,0)
+052 GIOV_TRAS   per sei mesi, poi io ho sempre fatto l'imbianchino e sono tornato di nuovo a fare l'imbianchino
+                (0,6)
+053 GIOV_TRAS   e: niente con mio papà non stava bene 
+                (1,6)
+054 GIOV_TRAS   e poi ha cominciato a bere anche mia mamma
+                (2,5)
+055 GIOV_TRAS   comunque: sono rimasto un poì li , ho fatto un'infanzia terribile
+                (2,4)
+056 GIOV_TRAS   e poi mio papà è morto
+                (0,6)
+057 GIOV_TRAS   a ventissette anni dopo un po' ma io / mi facevano fare una vita brutta 
+                (2,3)
+058 GIOV_TRAS   perché erano attaccati a me e: avevo tre sorelle 
+                (0,1)
+059 GIOV_TRAS   eravamo poveri
+                (0,1)
+060 GIOV_TRAS   una a ferrara una a milano e una qui
+                (4,3)
+061 GIOV_TRAS   loro con tredici anni erano già andate via
+                (0,0)
+062 GIOV_TRAS   e non sono ne se mai rientrà/ non sono sempre / non l'ho mai viste
+                (0,2)
+063 GIOV_TRAS   allora mia sorella quella di ferrara, l'avrò vista due mesi in tutta la mia vita
+                (0,3)
+064 GIOV_TRAS   quella di milano quindici giorni penso in tutto, sono morti adesso, questa qui abitava qua ma lei aveva anche lei i suoi problemi 
+                (0,1)
+065 GIOV_TRAS   io momenti belli non posso dire che ne ho avuti
+                (0,3)
+066 GIOV_TRAS   poi ah...mia / mio papà è morto, mia mamma ha voluto tornare nel veneto perché non era abituata anche se quando vivi in campagna   
+                (0,2)
+067 GIOV_TRAS   e non stava bene
+                (0,1)
+068 GIOV_TRAS   ed è tornata ed è morta subito perché
+                (0,1)
+069 GIOV_TRAS   io ero l'unico figlio che lei voleva bene
+                (1,5)
+070 GIOV_TRAS   a ventisette anni mi sono sposato
+                (1,4)
+071 GIOV_TRAS   e: li si li è cominciato diciamo la mia vita a migliorare perchè ho trovato una moglie brava 
+                (0,8)
+072 GIOV_TRAS   più intelligente di me , io ho la quinta
+                (0,1)
+073 GIOV_TRAS   mi ha aiutato eh...dopo l'alluvione ho cominciato di nuovo / a ventidue anni mi sono messo in proprio a lavorare
+                (0,1)
+074 GIOV_TRAS   perchè girava qui
+                (1,1)
+075 GIOV_TRAS   e li ho cominciato diciamo il mio benessere perché  lei era ragioniera, mi aiutava, lavorava in posta , teneva la mia contabilità 
+                (1,2)
+076 GIOV_TRAS   e io nel mio lavoro ho avuto abbastanza successo perché sono stato fortunato a conoscere delle persone
+                (0,1)
+077 GIOV_TRAS   che passavi da un lavoro all'altro, non è che mi facevo pubbliicità , non ho mai avuto neanche nel mio furgone la scritta
+                (0,1)
+078 GIOV_TRAS   ho lavorato da / a casa gente diciamo / io dico importante perché io non ero nessuno però mi passavano loro, architetti, giudici, anche a biella qui 
+                (0,1)
+079 GIOV_TRAS   eh ho sempre avuto un mucchio di lavoro, erano tempi che si...faccio qualche lavoretto adesso che ho settant'un anni 
+                (0,4)
+080 GIOV_TRAS   e niente, la mia vita è stata così, semplice, poi però ho avuto delle soddisfazioni io
+                (0,3)
+081 GIOV_TRAS   perchè facendo l'imbianchino, compravo del materiale a:  da: qui dalla uliver
+                (0,4)
+082 GIOV_TRAS   e: e mi facevano fare dei viaggi
+                (0,1)
+083 GIOV_TRAS   io: e mia moglie
+                (0,1)
+084 GIOV_TRAS   si può dire che ho girato tutto il mondo ma sempre co- per per i colori
+                (0,1)
+085 GIOV_TRAS   so' andato in Brasile dappertutto,  ho girato cuba, santo domingo, messico,
+                (0,0)
+086 GIOV_TRAS   perciò la mia vita, a parte l'infanzia bruttissima eh è stata anche bella, ho avuto dei piaceri, ho sempre lavorato  tante ore, artigiano nei momenti che si andava bene che non c'era anche tanto / tante tasse da pagare
+                (0,1)
+087 GIOV_TRAS   e bon, mi sono fatto la mia vita qui a: Cossato che mi son sempre trovato bene, io sono uno che si inserisce a parte adesso che ho le emozioni
+                (0,1)
+088 GIOV_TRAS   ma mi inseris- mi mi mi inserisco bene ho amici, un sacco, abbiamo / piemontesi non piemontesi, non ha- non ho mai avuto problema
+                (0,1)
+089 GIOV_TRAS   se vuoi parlo ital- in veneto eh! non l'ho go mai vu problemi, mi go sempre perchè gna ra  tanti che parlava veneto come mi 
+                (0,0)
+090 GIOV_TRAS   ma uso poco a volte nel mio paese 
+                (0,0)
+091 GIOV_TRAS   che ho ancora cugini, ancora gente, è un paesetto piccolo Arqua Petrarca
+                (0,0)
+092 GIOV_TRAS   e c'è una via li dove abito io che si chiama via Mandronigo
+                (0,1)
+093 GIOV_TRAS   però i: noartri questo poi saremo a stà un- una fraziòn tuti Borin 
+                (0,0)
+094 GIOV_TRAS   tuti Borin, e la nostra e- e a ciamavo ea fraziòn dei gaeli 
+                (0,0)
+095 GIOV_TRAS   che vuol dire "dei gaeini" , gaeini vuol dire dei galline 
+                (0,1)
+096 GIOV_TRAS   e una volta siccome non c'era niente, i miei parenti, mio nonno, mio zio, sta gente qua,me papà anche ma mio papà era un pauroso come me 
+                (0,1)
+097 GIOV_TRAS   e: andavano a rubare le galline perché non c'era nien- io non avevo niente da mangiare, niente
+098 GIOV_TRAS   compravano mio nonno quand'era / che si chiamava come me Giovanni
+                (0,1)
+099 GIOV_TRAS   eh e: compravano un maialino quand'era piccolo e poi no abitavamo su su in una casa  che era del Trieste
+                (0,0)
+100 GIOV_TRAS   erano ebrei, quei veneti son quasi tutti ebrei i padroni
+                (0,0)
+101 GIOV_TRAS   le mezadrìe, ste cose qua, invece a noi avevano lasciato fare un casetta senza terreno, poco terreno, non avevamo niente, perciò non avevamo neanche da mangiare 
+                (0,1)
+102 GIOV_TRAS   e allora compravano sto maialino d'inverno e si mant- no, in primavera poi si manteneva
+                (0,1)
+103 GIOV_TRAS   eh quand'ero piccolo mi ricordo dei robe non belle perchè perché quando non hai niente eh: 
+                (0,1)
+104 GIOV_TRAS   a volte andavamo a mangiare / so che mia mamma dormiva in una stanza 
+                (0,0)
+105 GIOV_TRAS   io dormivo in un lettino 
+                (0,0)
+106 GIOV_TRAS   mie sorelle quand'erè che però erano già partite quando che ai era ancora picolo mi e dormivo uno ca testa da qua e n'altro ca testa da la 
+                (0,0)
+107 GIOV_TRAS   nei lettini piccoli
+                (1,2)
+108 GIOV_TRAS   eh tutte cose non belle...ho fatto la quinta elementare
+                (0,1)
+109 GIOV_TRAS   però dovevo fare , non so ,tre chilometri a piedi quando che nevegava come adesso bisognava che i stivaliti alti come qua  
+110 GIOV_TRAS   perché passavamo per il bosco per poter andare a scuola
+111 GIOV_TRAS   perché no iera niente, no iera nean- non passava neanca a traia / se a traia quea dea neve 
+                (1,6)
+112 GIOV_TRAS   i salami, isalami bisognava venderli perchè i salame era queo che costava di più
+                (0,1)
+113 GIOV_TRAS   e allora quello la si vendeva e noi mangiavamo le ossa sempre dentro per fare il brodo così
+                (0,0)
+114 GIOV_TRAS   d'inver- d'inverno, d'inverno so solo che mangiava sempre fasoi,e: mi polenta
+                (1,3)
+115 GIOV_TRAS   polenta e ua
+                (0,1)
+116 GIOV_TRAS   polenta e cachi
+                (0,0)
+117 GIOV_TRAS   sem- roba di frutta e cosi
+                (0,1)
+118 GIOV_TRAS   mia mamma / non c'era neanche mucche, ce n'era una da, da in un posto / mia mamma è andata fino a mussedici, ha comprato una capretta così, per avere un po' di latte
+                (0,0)
+119 GIOV_TRAS   e s'ha fatto quattro chilometri a piedi per portarla su
+                (0,0)
+120 GIOV_TRAS   e poi mangiavamo polenta co sta capra che faceva il latte
+                (0,1)
+121 GIOV_TRAS   e: d'inverno niente, ua , ua che avevamo un po' di vigne li, l'attaccavamo su 
+                (0,0)
+122 GIOV_TRAS   e con polenta e ua e avanti cosi ... ah, non ero grasso, adesso comincio a ingrassare 
+                (1,4)
+123 GIOV_TRAS   ma giocavamo a delle pietre rotonde cosi , chi andava più vicino, si chiamava il mago 
+                (0,2)
+124 GIOV_TRAS   e: c'era un / come giocare alle boccie qua  
+                (0,1)
+125 GIOV_TRAS    opuure col cerchi, i cerchi de- de biciclette se sa, spingevamo così poi roba così che inventavamo noi 
+                (0,1)
+126 GIOV_TRAS   l'arco con la freccia che è un  bastoncino zac li per tirare [ride]
+                (0,0)
+127 GIOV_TRAS   [ride] avevo però una perchè eravamo tutta una una diciamo una comunità un po' staccati da arqua petrarca
+                (0,0)
+128 GIOV_TRAS   quattro, cinque chilometri
+                (0,1)
+129 GIOV_TRAS   eh niente i c- mi ricordo che non sapevo perché noierav- siamo via mandonego, si chiama
+                (0,1)
+130 GIOV_TRAS   e de cognome erano tuti Borin, ma non so perché i me ciamava gaeli perché i ndava tuti a rubare, ndao fia tre o quattro chilometri di notte, rubavano  le galline per poter mangiare 
+                (0,0)
+131 GIOV_TRAS   i carabinieri ogni giorno noi li avveamo li nella nostra frazione
+                (0,0)
+132 GIOV_TRAS   che lo sa- lo sapevano che andavano tutti a rubare
+                (0,1)
+133 GIOV_TRAS   però non li trovava mai perché vara i che:
+                (0,0)
+134 GIOV_TRAS   cos. e gaine feo tempo a spiumerle pria che arivesse i carabinieri perciò no i trovava mai neanche neanche i cosi
+                (0,1)
+135 GIOV_TRAS   diciamo che si può dire che eravamo come i zingari adesso ma peggio peggio perchè non avevamo niente 
+                (0,0)
+136 GIOV_TRAS   pagavamo l'affitto di- de del.../ per esempio adesso la casa l'hanno fatta  mio nonnodue- due stanze 
+                (0,0)
+137 GIOV_TRAS   in coso del trieste 
+                (0,0)
+138 GIOV_TRAS   che è quasi tutti padroni là, de mia pparte bussese
+                (0,0)
+139 GIOV_TRAS   eh e adesso l'ha voluta / ha voluto quei pochi terreni che c'avev- perchè tempo e guèra 
+                (0,1)
+140 GIOV_TRAS   el trieste ha detto vara che sennò sti qua i impiantava tute su un quarantotto perchè era tute mezadrie
+                (0,0)
+141 GIOV_TRAS   e n'ansa un po' e tera a fare un po' e frumento e la vicino a noialtri era una cosa sempre sua di questi qua 
+                (0,0)
+142 GIOV_TRAS   e: fasea conserva 
+143 GIOV_TRAS   e alòra noaltri duimi mètere i pomodori
+                (0,0)
+144 GIOV_TRAS   e po' portargli la e così te guadagnavi qualcosa, a fine ce davano e piantine e: pagae que pochissima tera 
+                (0,1)
+145 GIOV_TRAS   e due tre  diciamo un po' di vigna e i ndavo avanti de sta maniera qui però la cosa più che c'era da fare era andare a rubare salami, gaine, vini, rubavo tutto 
+                (0,1)
+146 GIOV_TRAS   e lo sapevano però i carabinieri arivava li e non trovava mai niente e bu andavano avanti così
+                (0,1)
+147 GIOV_TRAS    però non era / non potevo vivere inquella maniera li, sono venuto su che però i miei- i miei due amici che eravamo tutti su con me  loro sono che vivono ancora la, che sono miei cugini
+                (0,6)
+148 GIOV_TRAS   eh no eh  facevamo tutti imbianchini perchè quando partiva uno gioane, uno aveva sei mesi più di me
+                (0,0)
+149 GIOV_TRAS   io mi ricordo a tredic'anni / però devo dire che i veneti erano in gamba da questa parte qua 
+                (0,0)
+150 GIOV_TRAS   a quatordes'anni mi agea già la-la, la i- i libretti
+                (0,1)
+151 GIOV_TRAS   perciò qua 'nche so andà in pensiò trovà a quatordes'ani che qua ei cominciava già / a parte che son venuto nel sessantatrè
+                (0,0)
+152 GIOV_TRAS   avevo se- però li ho trovati
+                (0,1)
+153 GIOV_TRAS   ho trovato che so andato in pensiune con quell'ano che che, che cominciando da quatordici
+                (0,0)
+154 GIOV_TRAS   po' non so, tante cose brutte nella mia vita però le erano tuti così 
+                (0,1)
+155 GIOV_TRAS   eravamo tutti messi così, tutti...
+                (0,0)
+156 GIOV_TRAS   arrivava già della gente delle volte che erano peggio di noi / il pane mi non l'ho mai visto perchè il forno era a arquà 
+                (0,1)
+157 GIOV_TRAS   eh mangiavo sempre polenta, sta roba qua ma poi quando finiva anca i ossi de maiali 
+                (0,1)
+158 GIOV_TRAS   eh bisognava / o radic, mia mamma mi ricordo che andava nei prati con mi piccinin 
+                (0,0)
+159 GIOV_TRAS   e siccome i tereni nu ara neanca nostri, c'è quei radici, i busa oci i ciamavano anche 
+                (0,0)
+160 GIOV_TRAS   e le'ra una cosa che fasivi 
+                (0,1)
+161 GIOV_TRAS   e bon , io non mi ricordo dei momenti belli 
+                (0,1)
+162 GIOV_TRAS   nel veneto, però quando sei giovane...eh: niente
+                (0,1)
+163 GIOV_TRAS   è così
+                (0,9)
+164 GIOV_TRAS   ma poi è successe tante di quelle cose brutte che adesso queste non le voglio dire 
+                (0,1)
+165 GIOV_TRAS   mi ricordo- eh ma questa la dico - mi ricordo una volta che è arrivato un signore con un camioncino che vendeva magliette, ste cose qua 
+                (2,2)
+166 GIOV_TRAS   e: li non lo so tutti i miei parenti si vede che l'hanno ubriacato
+                (0,9)
+167 GIOV_TRAS   e siccome erano tutti ladri
+                (0,2)
+168 GIOV_TRAS   gli han portato via tutto
+                (0,7)
+169 GIOV_TRAS   arriva i carabinieri / questi qua che erano fatti, siccome che io ero piccolo sarà stato ile sei di sera era inverno 
+                (1,4)
+170 GIOV_TRAS   e m'hanno detto che ero testimone e mi hanno portato in caserma i carabinieri 
+                (2,4)
+171 GIOV_TRAS   io e mia mamma
+                (2,5)
+172 GIOV_TRAS   in bicicletta a gazzignano 
+                (0,3)
+173 GIOV_TRAS   però prima di andare vi dico solo questa 
+                (1,3)
+174 GIOV_TRAS   un signore che era mio parente che eravamo tutti li di noi mi ha detto guara giovanin che quan che te ve là ti, ve che se ti mette una forca qua 
+                (0,0)
+175 GIOV_TRAS   così, una forca, cosa fai devi sempre fare cosi  perchè si te fai così 
+                (0,0)
+176 GIOV_TRAS   e: si- s'impianta cosi sa ves to dire che no savea niente che no ve- che savea tutto
+                (0,0)
+177 GIOV_TRAS   però me da da insegnà subito che se metti a forca chi e dice si è vèro, è vèro che ti ha rubà? zac me forava 
+                (0,0)
+178 GIOV_TRAS   non capio tanto perchè avrò bu sia, sette ani 
+                (0,1)
+179 GIOV_TRAS   però fia a li aghea capì, m'aghea spiegà
+                (0,1)
+180 GIOV_TRAS    mia mamma m'ha dito guara che tiene sempre da dì che te nun te sè
+                (0,1)
+181 GIOV_TRAS   alòra anca li piangea
+                (0,0)
+182 GIOV_TRAS   e i carabinieri ha dito " va sa va via"
+                (0,0)
+183 GIOV_TRAS   ma alla fine questo qua era un poevro diavolo come noi
+                (0,0)
+184 GIOV_TRAS   e roba ai ha ga da ndrio perchè l'era una brava persona che andava con un camioncin vendere magliette nei paesetti, que robe li

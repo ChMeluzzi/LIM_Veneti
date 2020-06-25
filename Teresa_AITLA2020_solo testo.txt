@@ -1,0 +1,263 @@
+001 TER_TRAS   io mi chiamo teresa maroso, mi chiamano tere
+               (0,0)
+002 TER_TRAS   sono nata il ventidue marzo del cinquantuno
+               (0,0)
+003 TER_TRAS   pianezze, vicenza
+               (0,0)
+004 TER_TRAS   mi sono trasferita qua nel millenovecentocinquantasei a novembre
+               (0,0)
+005 TER_TRAS   san martino perchè mio papà lavorava la campagna e venivano qua per san martino
+               (0,0)
+006 TER_TRAS   eravamo tre fratelli prim- tre fratelli, mio- il più piccolo aveva sei mesi, sette
+               (0,0)
+007 TER_TRAS   in quattro e mio papà e mia mamma
+               (0,0)
+008 TER_TRAS   eh mio papà era venuto già su prima perchè aveva cominciato a piantare nei terreni la roba che serviva per quando arrivava 
+               (0,0)
+009 TER_TRAS   eh: c'ha portato su mio zio che faceva l'autotrasportatore col camion 
+               (0,0)
+010 TER_TRAS   tutto quello che avevano, le mucche e tutto
+               (0,0)
+011 TER_TRAS   siamo arrivati in una cascina a castellengo
+               (0,0)
+012 TER_TRAS   e lì ci siamo rimasti un anno perchè i proprietari / c'era la signora che non vedeva tanto bene i bambini 
+               (0,0)
+013 TER_TRAS   e difatti eravamo tutti piccoli
+               (0,0)
+014 TER_TRAS   bon comunque, poi mio papà dopo un anno si è trasferito un anno a montalciata
+               (0,0)
+015 TER_TRAS   e poi da li ha conosciuto gente, siamo- al terzo anno siamo venuti ad abitare sempre a castellengo nella chiesa della parrocchia
+               (0,0)
+016 TER_TRAS   io ho cominciato le scuole li
+               (0,1)
+017 TER_TRAS   le difficoltà più grandi finchè si è piccoli è la scuola, parlare il piemontese, conoscere e cosa
+               (0,0)
+018 TER_TRAS   però io ...insomma ci siamo inseriti bene
+               (0,0)
+019 TER_TRAS   perchè c'eravamo ragazzini li vicini di casa che  andavamo a scuola insieme poi a pranzo si tornava  a casa 
+               (0,0)
+020 TER_TRAS   si ritornava a scuola, si giocava insieme, si faceva tutto insieme
+               (0,0)
+021 TER_TRAS   allora: si andava a scuola poi quando si tornava bisognava lavorare
+               (0,4)
+022 TER_TRAS   andar a mungere le mucche, aiutar a fare il fieno e fare tutto 
+               (0,0)
+023 TER_TRAS   come hobby che c'è adesso diciamo giò che si poteva uscire alla sera andare alla madonna del / alla corona del mese di maggio 
+               (0,0)
+024 TER_TRAS   per poter uscire un'ora e andare a giocare
+025 TER_TRAS   ma dopo che si era fatto tutti i lavori
+               (1,0)
+026 TER_TRAS   da mangiare...allora il cuoco di casa era mio papà 
+               (0,0)
+027 TER_TRAS   perchè mia mamma non era ...tanto / se si voleva mangiare qualcosa di buono era mio papà che faceva
+               (0,8)
+028 TER_TRAS   mangiare, minestroni, quella roba li
+               (0,0)
+029 TER_TRAS   perchè loro uccidevano il maiale una volta all'anno
+030 TER_TRAS   loro i salami, la cosa la vendevano poi facevano il grasso e il lardo quella cosa lì, mi ricordo i secchielli
+               (0,0)
+031 TER_TRAS   che lo facevano fondere e si prendeva un cucchiaio di quello e si metteva nella minestra e , si faceva le minestre e bon  
+               (0,1)
+032 TER_TRAS    e la festa più grande era quando uccidevano il maiale  perchè allora c'era la cena del maiale
+               (0,0)
+033 TER_TRAS   e si invitava i vicini di casa che aiutavano a fare i salami e a fare tutto
+034 TER_TRAS   uccidevano il maiale poi con i vicini facevano i salami, due giorni 
+               (0,0)
+035 TER_TRAS   impastavano i salami e facevano salami,  cotechini, pancette cosa / perchè nel veneto facevano anche le soppresse mio papà
+               (0,0)
+036 TER_TRAS   arrivando da la facevano le cose venete, le soppresse grosse
+               (0,0)
+037 TER_TRAS   e: e bon però come dico i salami e cose erano  più quelle che dovevano vendere  per prendere dei soldi 
+               (0,0)
+038 TER_TRAS   a parte che mio papà ha sempre coltivato la terra, galline , di tutto come...  
+               (0,0)
+039 TER_TRAS   e poi le mucche e il latte, però il latte lo vendevano, non faceva formaggi, niente
+               (0,0)
+040 TER_TRAS   allevava i vitellini  e poi vendeva il latte
+               (0,0)
+041 TER_TRAS   però carne, roba così, si forse il pollo, una volta ogni tanto non è che ai tempi, nel cinquantasei in avanti si mangiasse carne 
+               (0,0)
+042 TER_TRAS   e bon
+               (0,0)
+043 TER_TRAS   poi ecco con mio papà si faceva il pane
+               (0,0)
+044 TER_TRAS   allora lo aiutavamo a fare il pane
+045 TER_TRAS   e poi a pasqua si faceva la focaccia di pasqua
+046 TER_TRAS   che era un po' come il pane, si impastava il giorno prima il lievito
+047 TER_TRAS   poi si lasciava lievitare , poi si mettevano gli ingredienti
+               (0,0)
+048 TER_TRAS   poi si lasciava lievitare le pagnottelle
+               (0,0)
+049 TER_TRAS   e poi facevamo proprio nel forno a legna, avevamo il forno 
+               (0,0)
+050 TER_TRAS   ma non è che se ne facesse una o due, se ne faceva trenta quaranta e duravano 
+               (0,1)
+051 TER_TRAS   perchè era l'unico dolce che mi ricordo che si faceva veneto
+               (0,0)
+052 TER_TRAS   veneto qua in piemonte che ci siamo trasferiti finchè ero piccola / finchè ero piccola , fino anche a sedici anni perchè io mi sono sposata giovanissima
+               (0,0)
+053 TER_TRAS   ho conosciuto mio marito a quindic'anni, a sedici e mezzo ci siam sposati
+               (0,0)
+054 TER_TRAS   a ventuno è nato il mio primo figlio, però bisognava così perchè una volta non si poteva uscire
+               (0,0)
+055 TER_TRAS   io la mia infanzia l'ho fatta ma sempre a casa
+               (0,0)
+056 TER_TRAS    non potevi uscire perchè non ti lasciavano anche se non c'erano i pericoli  che c'è d'oggi
+               (0,0)
+057 TER_TRAS   però sai le ragazzine non le lasciavano andare a ballare , mio papà era abbastanza severo
+               (0,0)
+058 TER_TRAS   poi ho  cominciato a lavorare presto, ho fatto le elementari poi ho fatto la terza di avviamento
+               (0,0)
+059 TER_TRAS   ero rimasta bocciata , non tii han più lasciato andar a scuola perchè
+060 TER_TRAS   non era / il eh il primo mettiamo compito che era da fare quando tornavi da scuola non erano i compiti e la lezione era fuori nei campi
+               (0,0)
+061 TER_TRAS   perchè il mio lavoro era andare a guardare le mucche
+               (0,0)
+062 TER_TRAS   andare a aiutare a mungere le mucche
+               (0,0)
+063 TER_TRAS   e i lavori dei campi, e studiare era un , mettiamo, un hobby e allora se uno riusciva bene ,  sennò pazienza
+               (0,0)
+064 TER_TRAS   e bon e poi bon, per dire, con i miei genitori li ho ancora vivi, mio papà ha fatto novantacinque anni ieri 
+               (0,0)
+065 TER_TRAS   e mia mamma ne fa novantuno
+               (0,0)
+066 TER_TRAS   e: ah abbiam sempre abitato qui a castellengo poi mi son sposata, sono venuta ad abitare qui a cossatoe finchè ce n'è
+               (0,1)
+067 TER_TRAS   ho due figli e quattro nipoti
+               (0,0)
+068 TER_TRAS   e cerco di/ noi parliamo qualche volta il veneto  quando vado dai miei parliamo il veneto difatti le bambine, le mie nipoti 
+               (0,0)
+069 TER_TRAS   dicono "nonna parli veneto?" si
+               (0,0)
+070 TER_TRAS   qualche volta eh le spiego, le canzoncine / qualche storiella veneta 
+               (0,1)
+071 TER_TRAS   gliela cantavo, le mettevo nel ginocchia così le cantavo " tutututu mussetta,la mamma è andata a messa, el papà è andà nei campi,con tre cavalli bianchi
+               (0,0)
+072 TER_TRAS   bianca la sella, addio morosa bella
+               (0,0)
+073 TER_TRAS   è una storiella che mi cantava ancora mio papà
+               (0,0)
+074 TER_TRAS   perchè mio papà ne raccontava tante però adesso per dire
+               (0,0)
+075 TER_TRAS   non non raccontandole più eh, per dire non è che uno viene in mente tutte le cose di una volta e finchè ce n'è 
+               (0,0)
+076 TER_TRAS   poi ho cominciato appena finita scuola a lavorare in fabbrica
+               (0,0)
+077 TER_TRAS   si prendeva mi sembra ottanta, ottanta lire all'ora
+               (0,0)
+078 TER_TRAS   poi con quindic'anni io lavoravo già dal fila a cossato
+               (0,0)
+079 TER_TRAS   ai tempi forse trenta, trentacinque mila lire al mese o quaranta non di più 
+               (0,1)
+080 TER_TRAS   non come adesso ma sempre lavorare...finchè non mi son sposata , lavorare in fabbrica eh e lavorare in campagna
+               (0,0)
+081 TER_TRAS   perchè la campagna / i miei han sempre fatto la campagna e bisognava lavorare la campagna
+               (0,0)
+082 TER_TRAS   eh bon , non lo so, mangiare come dico si mangiava minestroni 
+               (0,1)
+083 TER_TRAS   polenta e latte che io la mangio ancora adesso perchè quando faccio la polenta gialla mi piace polenta e latte
+               (0,0)
+084 TER_TRAS   le mie nipoti dicono " che schifezza" ma a me piace
+               (0,0)
+085 TER_TRAS   allora fino nel novantadue, tornavo
+               (0,0)
+086 TER_TRAS   perchè avevo tanti zii e poi c'era una sorella gemella di mia mamma
+               (0,0)
+087 TER_TRAS   mancata la sorella gemella di mia mamma
+088 TER_TRAS   ci son stati dei contrasti e io ho detto " io nel veneto non ci vado più" e quando dico una cosa non l'ho più fatta, non son più andata
+               (0,0)
+089 TER_TRAS   ho parenti, cugini , loro vengono ma io .....non....probabilmente mi è mancato quel supporto di quella zia li particolare 
+090 TER_TRAS   e mi ha tolto quella /  l'armonia di tornare nel veneto
+               (0,1)
+091 TER_TRAS   e non sento la mancanza, non sento niente la mancanza del veneto perchè io sto bene qua
+               (0,0)
+092 TER_TRAS   andavo a trovare i miei zii e i miei nonni finch'ero piccola
+               (0,0)
+093 TER_TRAS   perchè i miei nonni di mia mamma penso che li ho avuti..
+               (0,1)
+094 TER_TRAS   fino che avevo dieci, dodici anni
+               (0,0)
+095 TER_TRAS   allora andavo giù, si andava giù con la mamma un fig-, un fratello , uno due bambini 
+               (0,0)
+096 TER_TRAS   non di più perchè eravamo già in quattro
+               (0,0)
+097 TER_TRAS   eh: si, di mio nonno  mi ricordo ecco, l'unica cosa che aveva , tirava fuori quei bombini di zucchero da in tasca che lui aveva sempre quelli, che ci dava quelli
+               (0,0)
+098 TER_TRAS   l'unico regalo che era quando andavi a trovare il nonno che era il bombo proprio dalle tasche, il bombino di zucchero 
+               (0,1)
+099 TER_TRAS    e poi basta io dal- li del veneto non / si se- sono adata così, in vacanza un giorno ma dai parenti e cosa...che va- che senta la mancanza del veneto no
+               (0,0)
+100 TER_TRAS   ormai son tantissimi anni , son sessanta e cinque, sessanta: / dal cinquantasei , sessantadue anni che son qua 
+               (0,0)
+101 TER_TRAS   non...non sento la mancanza del veneto
+               (0,0)
+102 TER_TRAS   si giocava fuori, tra noi, tra bambini
+               (0,1)
+103 TER_TRAS   eh nel- nei /fuori nel prato perchè io come dico abitavo vicino alla chiesa e li c'era l'oratorio e la domenica, il sabato si trovava tutti i bambini li
+               (0,0)
+104 TER_TRAS   adesso nascondino, adesso non mi ricordo neanche più cosa si giocasse perchè eravamo tutti insieme li
+               (0,0)
+105 TER_TRAS   ecco come dico, andavo bene perchè abitando proprio nella cascina della chiesa
+               (0,0)
+106 TER_TRAS   perchè ho- ha sempre vissuto li mio papà finchè non ha comprato una casa dopo anni
+               (0,0)
+107 TER_TRAS   e allora eh i bambini una volta si andava tanto nelle parrocchie all'oratorio e si giocava tutti insieme li
+               (0,0)
+108 TER_TRAS   eh tutti i bambini,del paese perchè l- il paese castellengo era piccolo, c'era trecento abitanti non è che ci fosse, no ma una volta c'erano più bambini
+               (0,0)
+109 TER_TRAS   e si stava tutti insieme cosi
+               (0,0)
+110 TER_TRAS   san pietro...si facevano la festa del paese
+               (0,0)
+111 TER_TRAS   facevano la festa poi no,  li nel paese una volta facevano anche il carnevale
+               (0,0)
+112 TER_TRAS   che si ballavano a carn- si ballava a carnevale difatti mio marito io l'ho conosciuto al carnevale di castellengo
+               (0,0)
+113 TER_TRAS   che ci siam conosciuti a carnevale e bon dopo, dopo un anno e mezzo ci siam frequentati e ci siam sposati
+               (0,0)
+114 TER_TRAS   e siamo ancora insieme adesso dopo cinquant'anni e mezzo 
+               (0,0)
+115 TER_TRAS   cinquant'anni e mezzo di matrimonio
+               (0,0)
+116 TER_TRAS   finchè si è piccoli per dire, era il dialetto che bisognava imparare finchè ce n'è però io l'ho imparato
+               (0,0)
+117 TER_TRAS   io l'ho imparato anche parlè piemontese
+               (0,0)
+118 TER_TRAS   non son bunnca mangama ntru nèl difficultà se maiau cia parla il piemoteis
+119 TER_TRAS   ma già da sempre, ho imparato quasi subito a parlè il piemonteis 
+               (0,0)
+120 TER_TRAS   alòra magari i dig nèn tuu ei rob in piemonteis mè ch'el parla un
+               (0,0)
+121 TER_TRAS   però so abbastanza
+               (1,0)
+122 TER_TRAS   anche quand-quan che un al parla,a certi robi  
+               (0,0)
+123 TER_TRAS   i sac anche dì, sciucaiè
+               (0,0)
+124 TER_TRAS   la stuvia l'hai puta gè
+               (0,6)
+125 TER_TRAS   questa bisognerebbe che...che qualc- che quald'un mancia mei sa
+               (0,0)
+126 TER_TRAS   na roba alora mi dic magari lei rispund sciucalè, i ma to cia na bèla mata, 'n beèl mat
+               (0,0)
+127 TER_TRAS   eh du per un tanta l'oe eh!
+               (0,0)
+128 TER_TRAS   ah no! eh no!
+               (0,0)
+129 TER_TRAS   no ma adès mè ai du pur un moieant l'oeli
+               (0,0)
+130 TER_TRAS   però non so si lè just de parlè piemonteis parec
+               (0,0)
+131 TER_TRAS   parchè nu par 'mparalo quan c'iavo dai sei ann- da sès ani a andà avanti
+               (0,0)
+132 TER_TRAS   e m'ha imparà un po' com chi se ro bun
+               (0,0)
+133 TER_TRAS   eh in piemonteis probabilmente  li ha certi acenti ca je n'è just a mèt tuti sui manui
+               (0,0)
+134 TER_TRAS   veneti e e mvcin a cà
+               (0,0)
+135 TER_TRAS   ma papà e mia mamma no parchè mè papà eh forse qualcos, mia mamma ma parlanpoc più el veneto papà e mia mamma
+               (0,0)
+136 TER_TRAS   ah si, mè om eh nsoma tra nui parloma italiano, parloma veneto parloma anche quando- quando s'ha spo ancha in piemonteis qualcos
+               (0,0)
+137 TER_TRAS   quand fur n'è l'ucasiùn

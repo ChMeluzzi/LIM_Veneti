@@ -1,0 +1,303 @@
+001 ALM_TRAS   sono Almerino Fornasiero
+               (0,0)
+002 ALM_TRAS   sono nato il quindici agosto del millenovecentocinquantuno
+003 ALM_TRAS   a Pozzonuovo provincia di Padova
+004 ALM_TRAS   sono arrivato nel Biellese nel cinquantacinque
+005 ALM_TRAS   e ho iniziato le
+006 ALM_TRAS   le scuole elementari
+007 ALM_TRAS   a Mosso
+008 ALM_TRAS   nell'educandato Pozzo
+               (0,3)
+009 ALM_TRAS   ho fatto cinque anni di: 
+               (0,0)
+010 ALM_TRAS   elementari [BREATH] e mi [BREATH] tenevano fino alla sera alle sette le otto quando arrivava mio padre dal lavoro
+011 ALM_TRAS   il viaggio è stato in camion
+012 ALM_TRAS   con quelle poche robe che avevano i miei genitori
+013 ALM_TRAS   e siamo arrivati a Mosso il quindici agosto
+014 ALM_TRAS   mi ricordo perché c'era la festa del paese
+               (1,4)
+015 ALM_TRAS   noi vivevamo in una frazioncina piccola a Mosso
+016 ALM_TRAS   dove:
+017 ALM_TRAS   c'era un grande cortile e lì c'erano altre famiglie venete 
+018 ALM_TRAS   perciò ci siamo già abbastanza
+               (0,5)
+019 ALM_TRAS   eh 
+020 ALM_TRAS   inseriti nell' eh
+               (0,3)
+021 ALM_TRAS   nell'ambiente
+               (0,7)
+022 ALM_TRAS   mh è stato proprio un cambiamento:
+023 ALM_TRAS   totale
+024 ALM_TRAS   perché: noi eravamo abituati pa- in pianura tutti:
+025 ALM_TRAS   liberi la: e qui:
+               (0,2)
+026 ALM_TRAS   tutte 'ste bricche
+027 ALM_TRAS   [LAUGH] questi
+               (0,5)
+028 ALM_TRAS   queste montagne non eravamo abituati
+               (1,0)
+029 ALM_TRAS   io i miei cinque anni di scuola elementare li ho passati più [LAUGH] dalle suore che / sia io che mio fratello
+030 ALM_TRAS   e mio padre lavorava
+               (0,3)
+031 ALM_TRAS   e lavorava n- in una macelleria a Mosso
+               (0,0)
+032 ALM_TRAS   e perciò se poteva fare delle ore in più le faceva
+033 ALM_TRAS   le suore mi tenevano fino
+034 ALM_TRAS   quando passava lo vedeveamo dalla finestra e ci facevano uscire
+               (0,4)
+035 ALM_TRAS   ricordo solo la  Isidora che era la  portinaia che era quella che ci guardava
+               (1,1)
+036 ALM_TRAS   poi ho fatto: l'avviamento a Mosso
+               (0,3)
+037 ALM_TRAS   e nel
+               (0,3)
+038 ALM_TRAS   nelle vacanze che allora erano di tre mesi andavo a aiutare: / apprendista panettiere
+               (0,6)
+039 ALM_TRAS   ed ero molto contento perché mi davano tremila lire alla settimana
+               (0,4)
+040 ALM_TRAS   con questi ins- al-
+               (0,1)
+041 ALM_TRAS   facevano parte poi della famiglia erano inse-
+042 ALM_TRAS   non è che
+043 ALM_TRAS   faceva cassa con la famiglia
+               (1,1)
+044 ALM_TRAS   poi:
+045 ALM_TRAS   f:i:- a quattordici anni allora ti chiedevano già se volevi andare a lavorare in fabbrica
+               (0,0)
+046 ALM_TRAS   lì a Mosso c'era l'Ormezzano ho
+               (0,0)
+047 ALM_TRAS   ho optato per Mosso perché ero vicino a casa eran cento metri
+               (0,5)
+048 ALM_TRAS   e ho smesso d- ho finito la t- l'avviamento ho finito la terzo avviamento
+               (0,6)
+049 ALM_TRAS   ho sempre lavorato in magazzino:
+               (0,0)
+050 ALM_TRAS   pezzi
+               (1,1)
+051 ALM_TRAS   poi nel Settanta [BREATH]
+               (0,8)
+052 ALM_TRAS   un attimo
+               (0,1)
+053 ALM_TRAS   nel Settan-
+054 ALM_TRAS   -tuno Settantadue
+               (0,8)
+055 ALM_TRAS   tramite un mio amico che mi diceva tu hai la macchina vieni con me a Biella ho iniziato a fare il geometri serali
+056 ALM_TRAS   ho fatto cinque anni di geometri serali
+               (0,8)
+057 ALM_TRAS   e mi sono:
+               (0,9)
+058 ALM_TRAS   fatto f- finito queste scuole che poi [BREATH]
+059 ALM_TRAS   nella vita mi son servite poco perché io non sono uno un tipo che sa stare dentro al chiuso 
+060 ALM_TRAS   io ho sempre lavorato fuori ho fatto l'autista guidavo le ruspe i camion
+061 ALM_TRAS   non ero portato per questi: lavori: sedentari [LAUGH]
+062 ALM_TRAS   comunque mi è servito
+               (0,9)
+063 ALM_TRAS   uhm uhm ho imparato tante cose da geometra in scuola
+               (0,2)
+064 ALM_TRAS   bon eh
+               (0,7)
+065 ALM_TRAS   io non ho sentito molto: [BREATH]
+066 ALM_TRAS   la differenza tra piemontesi e veneti
+               (1,1)
+067 ALM_TRAS   anche perché secondo me
+068 ALM_TRAS   il farti sentire inferiore sono i genitori o i più grandi che ti fanno questo
+069 ALM_TRAS   ti fanno sentire i piccoli nei tuoi riguardi questo:
+070 ALM_TRAS   oh
+071 ALM_TRAS   queste:
+               (0,5)
+072 ALM_TRAS   come si può dire questo razzismo
+073 ALM_TRAS   non lo so come dire adesso dico
+               (0,8)
+074 ALM_TRAS   abbiamo sempre fatto:
+               (0,9)
+075 ALM_TRAS   sempre fatto una vita decente
+076 ALM_TRAS   i miei genitori mi hanno sempre:
+077 ALM_TRAS   siamo sempre stata una famiglia abbastanza unita e perciò [BREATH] ce la siamo sempre cavata bene
+078 ALM_TRAS   non posso dire ne riga- posso far solo che ringraziare i miei genitori
+               (1,2)
+079 ALM_TRAS   niente poi:
+               (0,4)
+080 ALM_TRAS   i giochi come si parlava prima  
+               (0,0)
+081 ALM_TRAS   i nostri gioc- 
+082 ALM_TRAS   eravamo sempre fuori anche noi perché a Mosso più che andare a correre
+083 ALM_TRAS   nei prati e fare disperare i contadini
+084 ALM_TRAS   che poi le abbiamo anche prese
+085 ALM_TRAS   perché [LAUGH] quando ci beccavano ci davano anche [LAUGH]
+               (0,9)
+086 ALM_TRAS   e poi la nostra:
+087 ALM_TRAS   poi facevamo tanta vita da oratorio
+               (0,0)
+088 ALM_TRAS   a Mosso c'era il viceparroco allora si andava tutti all'oratorio lì
+089 ALM_TRAS   allora c'erano il calcio balilla
+090 ALM_TRAS   c'era il ping pong che era solo lì all'oratorio allora
+091 ALM_TRAS   e poi si giocava a pallone
+092 ALM_TRAS   ah rompevamo tutte le [LAUGH]
+093 ALM_TRAS   come si chiamano i c- i:
+094 ALM_TRAS   l- le- i mucchi di di eh eh
+095 ALM_TRAS   le meje di di di fieno
+096 ALM_TRAS   che alla sera lo lo lo avvicinavano per poi spanderlo di nuovo al mattino
+               (0,8)
+097 ALM_TRAS   e lì eh erano poi i nostri vicini quelli che facevamo i dispetti perciò a volte: ci beccavano anche [LAUGH]
+               (0,5)
+098 ALM_TRAS   io che ero il più grande del del cortile dovevo guardare i bambini più piccoli
+               (0,6)
+099 ALM_TRAS   fino a quando arrivavano a casa i genitori
+               (0,7)
+100 ALM_TRAS   e a sua volta c'era una donna che si chiamava Damelior Gianna me la ricordo sempre
+               (0,8)
+101 ALM_TRAS   una signora francese che avrebbe dovuto controllare noi ma noi eravamo più furbi di lei [LAUGH]
+102 ALM_TRAS   scappavamo e non ci vedeva mai
+103 ALM_TRAS   però quando arrivavano a casa i genitori glielo diceva
+104 ALM_TRAS   e a volte erano anche:
+               (0,8)
+105 ALM_TRAS   qualche: eh
+106 ALM_TRAS   con la bacchetta mio padre nelle gambe:
+107 ALM_TRAS   ci diceva vieni dentro vieni dentro sì vieni dentro che dopo f- mi picchi allora [LAUGH]
+               (0,7)
+108 ALM_TRAS   e poi venivo a fare il bagno in Poala te che abitavi a Veglio
+109 ALM_TRAS   andavamo su a piedi fino a Poala [LAUGH]
+110 ALM_TRAS   io con tutta la banda di piccoletti sembravo ch- io la chioccia e loro gli anatroccoli
+111 ALM_TRAS   andava- [LAUGH] e ritornare per le sei perché mia madre finiva
+112 ALM_TRAS   aveva la mezz'ora alle sei e doveva trovare il tavolo pronto
+113 ALM_TRAS   con i piatti
+114 ALM_TRAS   e lei era:
+115 ALM_TRAS   faceva la cuoca dall'Ormezzano
+116 ALM_TRAS   allora ci portava a casa pentolino con la minestra o la pastasciutta e aveva già avevamo già la cena pronta
+               (0,4)
+117 ALM_TRAS   mio papà faceva il macellaio e allora be ti dico no a-
+118 ALM_TRAS   avevamo abbast- mangiavamo bene perché mio padre:
+               (0,7)
+119 ALM_TRAS   lavorando in macelleria eh avevano ancora in contratto di lavoro il suo p- ehm
+120 ALM_TRAS   potevano fare compere nel negozio e veniva scalato dalla busta paga
+               (0,0)
+121 ALM_TRAS   perciò a noi non ci mancava mai la carne vogliamo dire eh
+122 ALM_TRAS   aveva- poi avevamo l'orto e un po' di galline / noi siamo sempre stati bene
+               (0,7)
+123 ALM_TRAS   noi ci siamo stupiti i miei genitori più che d'altro
+124 ALM_TRAS   che quando siamo arrivati qui alla domenica i piemontesi mangiavano la polenta come dicevi
+125 ALM_TRAS   mentre noi compravamo già il pane
+126 ALM_TRAS   e diseu questi qua i' mangian sempre pulenta e diseu eh 
+127 ALM_TRAS   che per l'altro loro nel Veneto ne han mangiata troppa
+               (0,7)
+128 ALM_TRAS   qui han potuto:
+               (0,6)
+129 ALM_TRAS   tre- eh eh han potuto mangiare anche il pane che là lo compravano: rare volte
+               (1,6)
+130 ALM_TRAS   e poi mangiavamo baccalà sì perché mia madre mi ha
+               (0,2)
+131 ALM_TRAS   ho imparato a farlo anche io da mia madre perché mi ha insegnato
+               (0,0)
+132 ALM_TRAS   baccalà
+               (0,8)
+133 ALM_TRAS   fino agli anni Ottanta andavamo sempre perché i mie- i miei genitori avevano la casa a 
+               (0,5)
+134 ALM_TRAS   e perché pensavano di ritornare dopo quando erano in pensione
+               (0,8)
+135 ALM_TRAS   e invece non sono non sono più ritornati
+               (0,2)
+136 ALM_TRAS   adesso
+               (0,9)
+137 ALM_TRAS   eh hanno vissuto uno fino a novanta e uno fino a novantun anni eh
+               (0,8)
+138 ALM_TRAS   andavamo sempre giù per quello
+139 ALM_TRAS   perché noi lì portavamo giù stavano giù tutto il mese di agosto e: io e mio fratello andavamo al mare
+               (1,2)
+140 ALM_TRAS   e: poi si andava gi- si andava a salutare i parenti: 
+               (0,2)
+141 ALM_TRAS   adesso  passo ancora ma ah non ci sono più gli zii ci sono i:
+               (0,5)
+142 ALM_TRAS   cugini che coi cugini ti vedi poco e non c'è un legame come con gli zii
+               (0,2)
+143 ALM_TRAS   però se c- succede che passiamo di lì
+               (0,4)
+144 ALM_TRAS   perché io vado tanto alla festa degli alpini quando è nel Veneto passo dentro a salutarli
+               (0,1)
+145 ALM_TRAS   però non c'è più un gran legame:
+               (0,0)
+146 ALM_TRAS   come quando eravamo gli zii
+147 ALM_TRAS   i nonni mi ricordo ancora dei nonni
+148 ALM_TRAS   mio: mio nonno paterno [BREATH] mi ricordo quando andavamo giù piccolo mi ricordo che lui faceva il fattore in una:
+               (0,2)
+149 ALM_TRAS   una grande:
+150 ALM_TRAS   come li chiamano: fattoria lì quelli che erano sei
+151 ALM_TRAS   erano a: partecipazione o mezzadri come li chiamano
+               (0,0)
+152 ALM_TRAS   e c'ho una foto che vi- eh faceva il boaro in poche parole quelli che che cura-  che guardano le:
+               (0,4)
+153 ALM_TRAS   #le# vacche
+               (0,2)
+154 ALM_TRAS   eh
+               (0,9)
+155 ALM_TRAS   e la nonna invece / le donne in genere erano tutte in casa
+               (0,4)
+156 ALM_TRAS   perché eran- non lavoravano
+               (0,7)
+157 ALM_TRAS   e invece il nonno di mia madre eh avevano già un po' più di terreno lavoravano per per loro
+               (0,6)
+158 ALM_TRAS   eh la zia Ma- Marietta era in casa eh così
+               (0,8)
+159 ALM_TRAS   e: mia madre che era la [BREATH] terzultima di sette [BREATH] sorelle
+               (0,5)
+160 ALM_TRAS   lei mi diceva son stata la più fortunata perché:
+               (0,0)
+161 ALM_TRAS   portava il latte nelle famiglie
+162 ALM_TRAS   e in più faceva: la don- la persona di servizio: a: una famiglia ricca del paese
+163 ALM_TRAS   e allora ha detto io so- son quella che ha tribolato meno in campagna
+               (0,9)
+164 ALM_TRAS   e là mentre le altre aiutavano il n- il nonno: facevano:
+165 ALM_TRAS   maschi ce n'era uno solo
+166 ALM_TRAS   eran sette sorelle e un maschio
+               (0,1)
+167 ALM_TRAS    ma io sì g- c- m- c- che mangio ancora adesso il baccalà
+               (0,0)
+168 ALM_TRAS   oppure le anguille come: il pesce gatto
+169 ALM_TRAS   rivado ancora: che adesso non mangio più
+               (0,7)
+170 ALM_TRAS   e poi la farina bian- noi facevamo la polenta bianca per mangiare con il pesce
+171 ALM_TRAS   queste cose qui
+172 ALM_TRAS   e poi d'estate delle grandi angurie [LAUGH]
+               (0,5)
+173 ALM_TRAS   o meloni
+174 ALM_TRAS   che la venivano dappertutto
+175 ALM_TRAS   pesche
+176 ALM_TRAS   la la: l'anguilla la fai puoi farla arrosto o la fai a- in umido anche quella
+               (0,9)
+177 ALM_TRAS   cioè no- quasi non volevamo venire
+178 ALM_TRAS   io e Lorenzo mio fratello eravamo un po:' no- non ci pia- eh
+               (0,7)
+179 ALM_TRAS   non ci su- non si non si pensava di partire
+180 ALM_TRAS   però eh eh mi ricordo che abbiamo pianto quello sì
+               (0,4)
+181 ALM_TRAS   e poi ci hanno caricati in un camion
+182 ALM_TRAS   che questo camion arriva già da Mosso era un autotrasportatore
+183 ALM_TRAS   si vede che mio padre aveva qu-
+184 ALM_TRAS   c- mh mh aveva mh c- chie- chiesto a questo signore se ci veniva a prendere
+185 ALM_TRAS   ma forse ha portato su tanta gente dal Veneto quel signore lì
+186 ALM_TRAS   poi ci mettevano dentro nel cassone non è che sta- fa- avessi tante comodità eh
+187 ALM_TRAS   è stato un po' triste lasciare là perché la frequentavo l'asilo anch'io là sempre dalle suore che era mh
+188 ALM_TRAS   eravamo tre d- due tre anni qualcosa mi son ricordato
+               (0,0)
+189 ALM_TRAS   c'era una canzone che mi cantava mia madre na: [BREATH]
+190 ALM_TRAS   a Natale nella sera di Natale la chiamavano in veneto "Ciara Stella"
+191 ALM_TRAS   dovrebbero essere / l'hai sentita anche tu?
+192 ALM_TRAS   però non me la ricordo più
+193 ALM_TRAS   no: / mi ricordo sempre solo il titolo diciamo
+194 ALM_TRAS   ma "Ciara Stella" el disia che la la cantavano la notte di Natale
+195 ALM_TRAS   ma non parlo veneto sì davanti perché mi sembra che voi non potete
+               (0,6)
+196 ALM_TRAS   capirmi non lo so
+197 ALM_TRAS   forse per rispetto
+198 ALM_TRAS   ma a casa coi genitori veniva spontaneo parlare in veneto
+               (0,4)
+199 ALM_TRAS   niente in veneto cosa so- eh posso dire che mi sun sempre sta' ben su da me
+200 ALM_TRAS   ho sempre fatto una bella ho sempre fatto una bella vita
+201 ALM_TRAS   mi sforzo per dirtelo in veneto perché mi- non mi viene spontaneo
+               (1,0)
+202 ALM_TRAS   però non è una brutt- non è un brutto dialetto il nostro pa- il nostro dialetto veneto
+               (0,3)
+203 ALM_TRAS   secondo me
+               (0,9)
+204 ALM_TRAS   come penso tutti quelli che il loro dialetto è: 
+               (0,9)
+205 ALM_TRAS   è la loro lingua penso prima di tutto

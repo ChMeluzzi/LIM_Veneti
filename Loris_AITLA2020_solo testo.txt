@@ -1,0 +1,299 @@
+001 LORIS_TRAS   sono Loris Faella
+                 (0,1)
+002 LORIS_TRAS   nato a Roverbella provincia di Mantova
+                 (0,4)
+003 LORIS_TRAS    il due uno quarantasette
+                 (1,0)
+004 LORIS_TRAS   eh praticamente sono: venuto in Piemonte con l'età di sei anni
+                 (0,8)
+005 LORIS_TRAS   eh nel / lì a Mantova avevamo / eravamo mezzi proprietari di terrieri terreno e in più avevamo il mezzadria cioè praticamente avevamo la casa nostra e in più avevamo la casa del mezzadro cu- dove si dorm- c'erano quattro famiglie 
+                 (0,5)
+006 LORIS_TRAS   e avevamo terreni d- predisposti tutti assieme cioè i nostri con i loro si lavoravano
+                 (0,4)
+007 LORIS_TRAS   queste cose qua alla fine: a San Martino veniva diviso col proprietario del terreno la parte che andava a lui la parte che rimaneva a noi 
+                 (0,3)
+008 LORIS_TRAS   questo qui siamo venuti su nel / dal da dal Veneto poi io con l'età di sei anni ho iniziato la prima elementare là
+                 (0,4)
+009 LORIS_TRAS   che si iniziava con le aste allora
+                 (0,3)
+010 LORIS_TRAS   sono arrivato in Piemonte e il mese di era il periodo di San Martino perché la campagna viene fatta da San Martino a San Martino non viene fatta annualmente cioè in quel periodo lì 
+                 (0,9)
+011 LORIS_TRAS   praticamente sono venuto in Piemonte e ho iniziato di nuovo la prima
+                 (0,1)
+012 LORIS_TRAS   problema era che l'insegnante parlava in piemontese
+                 (0,4)
+013 LORIS_TRAS   e io avevo ben- mi andava bene che avevo una cugina che mi diceva le cose che diceva sta / l- l'insegnante e questa qui mi riprendeva sempre perché non riuscivo a starci dietro a quello che diceva
+                 (0,4)
+014 LORIS_TRAS   poi loro erano molto più avanti io ero / facevo ancora le aste
+                 (0,3)
+015 LORIS_TRAS   loro facevano già i numeri e in più le lettere
+                 (0,8)
+016 LORIS_TRAS   e quest'insegnante: n- non and-  non c'era verso di farlo allora ho finito l'anno
+                 (0,5)
+017 LORIS_TRAS   e mio papà mi fa no lo ripeti perché è inutile andare avanti quest'insegnante è andata in pensione e sono arrivati delle altre insegnanti è andata una meraviglia perché
+                 (0,7)
+018 LORIS_TRAS   e: ci hanno insegnato molto bene le cose
+                 (0,5)
+019 LORIS_TRAS   sono arrivato in quinta elementare e la quinta elementare non la facevano più a Ronco perché e io abito a Cossato
+                 (0,5)
+020 LORIS_TRAS   a Ronco non la facevano più allora hanno dovuto trasferirmi a Cossato
+                 (0,5)
+021 LORIS_TRAS   ed ero eh il mio / il mio insegnate era un professore che si chiamava don Cavallero era un pre- un parroco
+                 (0,9)
+022 LORIS_TRAS   e praticamente questo qui eh era molto severo: tirava via i tamponi de- dela / della / che asciugava l- la la / scriveva con la penna stilografica e la asciugava e tirava i tamponi quando di incaccla-
+                 (0,6)
+023 LORIS_TRAS   si chiacchierava
+                 (1,3)
+024 LORIS_TRAS   poi eh
+                 (1,4)
+025 LORIS_TRAS   qui noi siamo arrivati
+                 (0,2)
+026 LORIS_TRAS   e avevamo già la casa perché eravamo / avevamo il terreno che avevamo là la casa l'avevamo lasciata a mio zio che abitava là
+                 (0,4)
+027 LORIS_TRAS   e abbiamo comprato la casa qua col terreno che abbiam venduto abbiam fatto fare la casa qua e noi siamo arrivati e avevamo già la casa
+                 (0,7)
+028 LORIS_TRAS   e praticamente non avevamo problemi il problema più grande è stato il viaggio
+                 (0,6)
+029 LORIS_TRAS   perché abbiam fatto il viaggio siamo partiti ee
+                 (0,4)
+030 LORIS_TRAS   mh
+                 (0,3)
+031 LORIS_TRAS   di notte più v- più che mattina e siamo arrivati alla sera pomeriggio tardi
+                 (0,2)
+032 LORIS_TRAS   con un camio
+                 (0,5)
+033 LORIS_TRAS   noi eravamo tutti dietro c'era mio papà l'autista e dietro avevamo noi c'era gli animali c'erano galline polli:
+                 (0,4)
+034 LORIS_TRAS   c'era un po' di tutto maiali c'era il maiale c'era un po' di tutto e in più il fieno perché bisognava star seduti lì sopra
+                 (0,7)
+035 LORIS_TRAS   siamo arrivati qua abbiamo scaricato il tutto abbiamo pro- iniziato il problema
+                 (0,4)
+036 LORIS_TRAS   per i miei genitori è arrivato il lavoro per- per- in quel periodo lì negli anni cinquanta:tré
+                 (0,5)
+037 LORIS_TRAS   non c'era lavoro qua
+                 (0,2)
+038 LORIS_TRAS   c'era poco lavoro
+                 (0,7)
+039 LORIS_TRAS   e in più
+                 (0,5)
+040 LORIS_TRAS   eh c'era anche: la disuguaglianza perché
+                 (0,2)
+041 LORIS_TRAS   e il Veneto era poco visto bene cioè
+                 (0,7)
+042 LORIS_TRAS   era era [LAUGH] all'inizio proprio
+                 (0,5)
+043 LORIS_TRAS   e praticamente
+                 (0,2)
+044 LORIS_TRAS   eh
+                 (0,2)
+045 LORIS_TRAS   mio papà si è adattato a fare il manovale nei muratori eh dall'impresa che ha fatto la nostra casa
+                 (0,3)
+046 LORIS_TRAS   e mia mamma invece non fac-
+                 (0,4)
+047 LORIS_TRAS   era a casa non faceva niente perché oltrettutto poi era
+                 (0,3)
+048 LORIS_TRAS   è diventata invalida perché aveva i dolori
+                 (0,3)
+049 LORIS_TRAS   nelle mani le aveva e artrosi deformanti e allora praticamente non ha lavorato
+                 (0,8)
+050 LORIS_TRAS   io sono arr- ho finito l- la quinta elementare a Cossato poi ho fatto l'avviamento a Valle Mosso
+                 (0,8)
+051 LORIS_TRAS   intanto mi er- s- con quattordic- con quindici anni ero a Valle Mosso f- avevo iniziato la terza
+                 (0,4)
+052 LORIS_TRAS   e si e / o ho trovato un posto di l- mi hanno trovato un posto di lavoro da un'officina di Cossato grande
+                 (0,9)
+053 LORIS_TRAS   e ho dovuto smettere la scuola per andare a lavorare perché mio papà era diventato cieco
+                 (0,4)
+054 LORIS_TRAS   e mia mamma non lavorava e non si poteva andare avanti mie sorelle si erano sposate praticamente e ho dovuto per forza andare a lavorare
+                 (0,8)
+055 LORIS_TRAS   e allora son andato a lavorare
+                 (0,5)
+056 LORIS_TRAS   eh con quindici anni
+                 (0,5)
+057 LORIS_TRAS   eh lavoravo già ed ero già in regola come apprendista perché s- ti prendevano come apprendista
+                 (1,6)
+058 LORIS_TRAS   quando:
+                 (0,7)
+059 LORIS_TRAS   ho iniziato a e il sedicesimo anno
+                 (0,3)
+060 LORIS_TRAS   mi- mi- mio papà mi fa vai a prenderti la terza: media almeno allora la se- fa a Cossato facevano la serale
+                 (0,6)
+061 LORIS_TRAS   e sono andato per fare la serale ho fatto la serale ho fatto terza media
+                 (0,6)
+062 LORIS_TRAS   e c'era un'insegnante che mi fa vai a Biella st-
+                 (0,1)
+063 LORIS_TRAS   che c'è l'I.T.I. di Biella che ti fanno dei corsi
+                 (0,2)
+064 LORIS_TRAS   serali
+                 (0,4)
+065 LORIS_TRAS   e l- così lavoravo di giorno e la sera dopo le sei andavo su a Biella
+                 (0,4)
+066 LORIS_TRAS   e e studiavo fino alle unidici di sera e poi venivo a casa col pulma e poi p- di nuovo in bicicletta da Cossato fino a Lorazzo
+                 (0,8)
+067 LORIS_TRAS   dove abitavo
+                 (1,6)
+068 LORIS_TRAS   poi di lì: i lavori: [BREATH]
+                 (0,5)
+069 LORIS_TRAS   son sempre stati un po' santuari eh si andava di qua e di là perché poi io dal Gaudino io poi son andato in pensio- in
+                 (0,4)
+070 LORIS_TRAS   in a militare
+                 (0,4)
+071 LORIS_TRAS   da militare dopo l'alluvione
+                 (0,1)
+072 LORIS_TRAS   son arrivato a casa e c'era l'alluv- dopo l'alluv- l'alluvione
+                 (0,5)
+073 LORIS_TRAS   eh il Gaudino lì eh aveva chiuso una parte che poi l'ha riaperta
+                 (0,2)
+074 LORIS_TRAS   e allora io son andato poi a lavorare un altro
+                 (0,3)
+075 LORIS_TRAS   'n altro su a Ponzone praticamente un'altra officina
+                 (0,8)
+076 LORIS_TRAS   e di lì ho incominciato a lavorare moltissimo e: mi son trovato
+                 (0,5)
+077 LORIS_TRAS   bene come come
+                 (0,1)
+078 LORIS_TRAS   come persone come ambiente e tutto quanto
+                 (0,9)
+079 LORIS_TRAS   eh l'unica cosa è che eravamo pochi accettati da:- dai piemontesi cioè adesso non voglio dire piemonte- però
+                 (0,6)
+080 LORIS_TRAS   eravamo accettati non proprio
+                 (0,1)
+081 LORIS_TRAS   bene bene bene
+                 (0,8)
+082 LORIS_TRAS   come famiglia noi stavamo abbastanza bene perché essendo proprietari terrieni avevamo le mucche avevamo
+                 (0,5)
+083 LORIS_TRAS   tutti gli animali immaginabili possibili giù dov'er- dove abitavavamo
+                 (0,4)
+084 LORIS_TRAS   a scuola più che altro la maestra l'insegnante perché io gli dicevo che non capivo e lei continuava a parlarmi in in dialetto piemontese
+                 (0,4)
+085 LORIS_TRAS   dicevo guardi che io non capisco
+                 (0,4)
+086 LORIS_TRAS   e le- io ci parlavo veneto perché
+                 (0,1)
+087 LORIS_TRAS   essendo i miei veneti tutto veneti parlavamo veneti
+                 (0,5)
+088 LORIS_TRAS   e lei mi fa io non ti capisco a te te parla in italiano e poi parlo anch'io italiano tutte cose del genere no
+                 (0,6)
+089 LORIS_TRAS    e praticamente eh alla fine poi mia sor- mia cugina mi traduceva quello che diceva la maestra
+                 (0,4)
+090 LORIS_TRAS   perché sennò come facevo a fare i compiti non sapevo da che parte ero girato
+                 (0,4)
+091 LORIS_TRAS   giù eh nel Vene- cioè a Mantova lì dove eravamo noi mangiavamo abbastanza bene perché avendo gli animali
+                 (0,7)
+092 LORIS_TRAS   l'unica cosa era sempre pollo polenta
+                 (0,3)
+093 LORIS_TRAS   eh salami e via dicendo cioè l'unica cosa
+                 (0,2)
+094 LORIS_TRAS   salame neanche tanto però più che altro erano 
+                 (0,5)
+095 LORIS_TRAS   gli scarti del maiale che si mangiava
+                 (0,7)
+096 LORIS_TRAS   tanto è vero che io odio le carni bianche perché me le me le han fatte mangiare talmente tanti che
+                 (0,4)
+097 LORIS_TRAS   non riesco più a mangiarla il sapore della carne bianca mi dà fastidio
+                 (0,6)
+098 LORIS_TRAS   e p- e quei primi anni che eravamo qua: si faticava un po' però avevamo 'nco- portato su gli animali e riuscivamo a andare avanti con quelli lì
+                 (0,5)
+099 LORIS_TRAS   e poi mangiavamo ancora abbastanza perché avevano un po' di risparmio e riuscivamo a andare avanti
+                 (0,5)
+100 LORIS_TRAS   non è che avessimo un benessere
+                 (0,9)
+101 LORIS_TRAS   alto però si stava bene cioè si mangiava
+                 (0,2)
+102 LORIS_TRAS   oltretutto avevamo la nostra casa e si stava
+                 (0,6)
+103 LORIS_TRAS   abbastanza bene via
+                 (0,4)
+104 LORIS_TRAS   al- giù di là si giocava nell'aia più che altro
+                 (0,3)
+105 LORIS_TRAS   si giocava / si prendeva gli stracci si faceva un pallone
+                 (0,4)
+106 LORIS_TRAS   e si giocava con quello
+                 (0,4)
+107 LORIS_TRAS   poi: c'erano: i cerchi delle de- delle ruote delle bicilette e col bastone si facevano correre sempre nell'aia per- dove facevano seccare il granoturco
+                 (0,7)
+108 LORIS_TRAS    eh
+                 (1,0)
+109 LORIS_TRAS   altri giochi eh
+                 (0,4)
+110 LORIS_TRAS   s'andava tanto sui cavalli ti mettevano sul cavallo noi avevamo i cavalli avevamo i buoi
+                 (0,7)
+111 LORIS_TRAS   e poi quando lì quando facevano la trebbiatura si lavorava una sebit- una settimana di fila
+                 (0,3)
+112 LORIS_TRAS   con la trebbiatura
+                 (0,6)
+113 LORIS_TRAS   e noi
+                 (0,3)
+114 LORIS_TRAS   io ero piccolo e non potevo lavorare però:
+                 (0,2)
+115 LORIS_TRAS   si vedeva quello che facevano
+                 (0,4)
+116 LORIS_TRAS   e quando c'era la pigiatura del vino che pigiavano il vino lì anche lì lavoravano
+                 (0,2)
+117 LORIS_TRAS   una settimana buona
+                 (0,7)
+118 LORIS_TRAS   per fare il vino
+                 (0,2)
+119 LORIS_TRAS   si andava a raccoglier l'uva tutti anche noi belli da piccoli si andava lo stesso
+                 (0,5)
+120 LORIS_TRAS   e: poi dopo: quando: facevano l'affare ci mettevano: dentro alla
+                 (0,7)
+121 LORIS_TRAS   alla pigiatura coi piedi perché la pigiatura era fatta a piedi non era fatta con le macchine era tutta a piedi
+                 (0,4)
+122 LORIS_TRAS   e la trebbiatura era fatta con la macchina però era stat- era una macchina in affitto
+                 (0,4)
+123 LORIS_TRAS   perché non non
+                 (0,5)
+124 LORIS_TRAS   non è che si poteva permettersi la macchina
+                 (0,8)
+125 LORIS_TRAS   e: avevamo e st- siamo stati una dei prime famiglie a avere i trattori Landini famosi
+                 (0,3)
+126 LORIS_TRAS   con le ruote di ferro
+                 (0,6)
+127 LORIS_TRAS   perché l'abbiam comprato quattro o cinque famiglie non una famiglia unica
+                 (0,4)
+128 LORIS_TRAS   allora servivamo noi e in più andavamo a lavorare per altri per lavorar- andavano a lavorare per altri
+                 (0,3)
+129 LORIS_TRAS   per poter
+                 (0,3)
+130 LORIS_TRAS   acqui- pagare questo / questa macchina
+                 (2,1)
+131 LORIS_TRAS   poi al d'inverno ci tra- trattenevamo tutti dentro le stalle tutti le qua- perché in questa casa era molto grande c'era quattro famiglie molte numerose e andavamo tutti nella stalla a ballare cantare parlare e via dicendo perché è il posto più caldo che c'era perché in casa c'era solo il camino e bon in cucina
+                 (0,5)
+132 LORIS_TRAS   altri riscaldamenti non ce n'era
+                 (0,6)
+133 LORIS_TRAS   ma io ero abbastanza felice quand'ero piccolo perché: eravamo un bel gruppo di ragazzi lì ne-
+                 (0,3)
+134 LORIS_TRAS   e in cortile si giocava:
+                 (0,2)
+135 LORIS_TRAS   cioè eravamo affiatati non c'era
+                 (0,5)
+136 LORIS_TRAS   problemi di nessun genere la scuola era ci- a un chilometro circa di distanza
+                 (0,5)
+137 LORIS_TRAS   eh come lavoro ho fatto il tecninco a andare in giro per le per l-
+                 (0,2)
+138 LORIS_TRAS   per il mondo perché
+                 (0,2)
+139 LORIS_TRAS   ho girato un po' per i macchinari tessili
+                 (0,6)
+140 LORIS_TRAS   eh
+                 (0,5)
+141 LORIS_TRAS   sono andato in Cina son andato di qua e di là in Germania Francia Spagna
+                 (0,5)
+142 LORIS_TRAS   poi di qua e di là ho girato un po' dappertutto:
+                 (0,4)
+143 LORIS_TRAS   sempre per questi lavori di macchinario tessile
+                 (0,6)
+144 LORIS_TRAS   ah no eh io ho provato / sono andato un poco tempo fa anche a Mantova
+                 (0,6)
+145 LORIS_TRAS   che c'era ancora una m- una cugina lì e poi le altre le ho una a Peschiera e l'altra ce l'ho a Verona e: però
+                 (0,3)
+146 LORIS_TRAS   non
+                 (0,8)
+147 LORIS_TRAS   non riesco a legare come come che si legava quando si abitava lì
+                 (0,2)
+148 LORIS_TRAS   praticamente
+                 (0,4)
+149 LORIS_TRAS   cioè eh io preferisco abitare qua adesso che là
+                 (0,1)
+150 LORIS_TRAS   che stanno già bene anche là adesso perché stanno molto bene

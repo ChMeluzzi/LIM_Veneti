@@ -1,0 +1,849 @@
+001 AUR_TRAS         Aurora Azzalin
+                     (1,9)
+002 AUR_TRAS         sono nata
+                     (0,1)
+003 AUR_TRAS         ad Adria
+                     (0,0)
+004 AUR_TRAS         in provincia di Rovigo
+                     (0,3)
+005 AUR_TRAS         il ventuno uno
+                     (0,5)
+006 AUR_TRAS         millenovecentocinquanta
+                     (1,2)
+007 AUR_TRAS         sono arrivata nel millenovecentocinquantaquattro
+                     (1,6)
+008 AUR_TRAS         e sono venuta ad abitare qui a Mongrando
+                     (0,9)
+009 AUR_TRAS         nel biellese
+010 Other_Gestures   TESTA: scuote la testa
+                     (1,0)
+011 AUR_TRAS         in una piccola frazione
+                     (0,6)
+012 AUR_TRAS         che si chiamava Vignazze
+                     (1,2)
+013 AUR_TRAS         e di lì ci siamo  rimasta qualche anno
+                     (0,4)
+014 AUR_TRAS         siamo arrivati
+                     (0,6)
+015 AUR_TRAS         in un camion
+                     (0,9)
+016 AUR_TRAS         la nonna
+                     (0,7)
+017 AUR_TRAS         la mamma
+                     (0,7)
+018 AUR_TRAS         e il fratello
+                     (0,4)
+019 AUR_TRAS         l'impatto non è stato molto bello siamo arrivati al mattino
+                     (1,0)
+020 AUR_TRAS         abbiamo viaggiato tutta la notte
+021 Other_Gestures   TESTA: scuote la testa
+                     (1,3)
+022 AUR_TRAS         quando siamo scesi
+                     (0,6)
+023 AUR_TRAS         abbiamo visto solo
+                     (0,0)
+024 AUR_TRAS         diciamo
+                     (0,4)
+025 AUR_TRAS         abbastanza ruderi non proprio case
+026 Other_Gestures   TESTA: scuote la testa
+                     (1,0)
+027 AUR_TRAS         e anche la nostra casa era abbastanza fatiscente
+                     (1,9)
+028 AUR_TRAS         eh
+                     (0,1)
+029 AUR_TRAS         c'era solo una piccola cucina
+                     (0,1)
+030 AUR_TRAS         e una enorme stanza
+                     (1,3)
+031 AUR_TRAS         a cui eh mancava il soffitto
+                     (0,4)
+032 AUR_TRAS         c'era solo legname
+033 Other_Gestures   TESTA: scuote la testa
+                     (0,1)
+034 Other_Gestures   TESTA: scuote la testa
+035 AUR_TRAS         e niente altro
+                     (1,8)
+036 AUR_TRAS         e ci fermammo lì perchè il papà aveva trovato solo quello lui era venuto su
+                     (0,4)
+037 AUR_TRAS         l'anno prima
+                     (1,0)
+038 AUR_TRAS         aveva trovato lavoro
+                     (1,9)
+039 AUR_TRAS         quando ebbe i primi stipendi allora ci fece venire su
+040 Other_Gestures   TESTA: scuote la testa
+                     (0,9)
+041 AUR_TRAS         e ci fermammo lì
+                     (1,1)
+042 AUR_TRAS         e di lì
+                     (0,2)
+043 AUR_TRAS         eh
+                     (0,9)
+044 AUR_TRAS         non eravamo molto ben accettati
+045 Other_Gestures   TESTA: scuote la testa
+                     (1,9)
+046 AUR_TRAS         pian pianino abbiamo/ siamo riusciti 
+                     (0,3)
+047 AUR_TRAS         ad avere diciamo l'attenzione di queste persone
+                     (0,5)
+048 AUR_TRAS         anche se loro non
+                     (0,2)
+049 AUR_TRAS         ci vedevano m- di buon occhio
+050 Other_Gestures   TESTA: scuote la testa
+                     (0,9)
+051 AUR_TRAS         di conseguenza pian pianino abbiamo
+                     (0,6)
+052 AUR_TRAS         preso la loro fiducia
+                     (1,2)
+053 AUR_TRAS         e siamo diventati tutti amici
+                     (0,5)
+054 AUR_TRAS         c'eran degli altri bimbi
+                     (1,7)
+055 AUR_TRAS         che erano ehm piemontesi
+                     (0,6)
+056 AUR_TRAS         e:
+                     (1,1)
+057 AUR_TRAS         erano molto indigenti
+                     (1,4)
+058 AUR_TRAS         e di conseguenza
+                     (0,6)
+059 AUR_TRAS         ah
+                     (0,2)
+060 AUR_TRAS         noi con il poco che si aveva si aiutava loro
+                     (1,9)
+061 AUR_TRAS         e così
+                     (0,2)
+062 AUR_TRAS         eh
+                     (0,2)
+063 AUR_TRAS         passarono due anni
+                     (1,3)
+064 AUR_TRAS         abbiamo imparato
+                     (0,7)
+065 AUR_TRAS         a seguire queste persone che abbiamo trovato nel paese
+                     (1,1)
+066 AUR_TRAS         eh a lavorare con loro anche se eravamo piccoli
+                     (1,3)
+067 AUR_TRAS         andavamo a pascolare le mucche
+                     (1,4)
+068 AUR_TRAS         anche con quattro o cinque anni
+                     (0,9)
+069 AUR_TRAS         a dar da mang- mangiare ai maiali
+                     (0,5)
+070 AUR_TRAS         a raccogliere le uova
+                     (1,1)
+071 AUR_TRAS         e in cambio loro erano riconoscenti
+                     (0,8)
+072 AUR_TRAS         ci davano
+                     (0,3)
+073 AUR_TRAS         quel poco che potevano
+                     (2,6)
+074 AUR_TRAS         e così
+                     (0,1)
+075 AUR_TRAS         eh
+                     (0,2)
+076 AUR_TRAS         diventarono
+                     (0,5)
+077 Other_Gestures   TESTA: inclina e scuote la testa
+078 AUR_TRAS         persone di famiglia
+                     (0,8)
+079 Other_Gestures   TESTA: piega la testa a destra e sinistra
+080 AUR_TRAS         loro con noi e noi con loro
+                     (1,4)
+081 AUR_TRAS         poi eh iniziò
+                     (0,6)
+082 AUR_TRAS         la prima elementare proprio in questo paesino che si chiama San Lorenzo
+                     (2,4)
+083 AUR_TRAS         e lì trovai una maestra stupenda
+084 Other_Gestures   TESTA: scuote la testa
+                     (1,1)
+085 AUR_TRAS         un'insegnante c'era una classe una:
+                     (0,4)
+086 AUR_TRAS         uno stanzone unico
+                     (0,4)
+087 AUR_TRAS         in cui c'erano cinque classi
+                     (0,1)
+088 AUR_TRAS         ed erano solo due isegnanti
+                     (1,7)
+089 AUR_TRAS         questa persona era particolarissima
+090 Other_Gestures   TESTA: scuote la testa
+                     (1,4)
+091 Other_Gestures   TESTA: scuote la testa
+092 AUR_TRAS         adesso non c'è più
+                     (1,0)
+093 AUR_TRAS         aveva già delle storie alle spalle anche lei non era molto bene vista
+                     (0,6)
+094 Other_Gestures   TESTA: annuisce
+095 AUR_TRAS         probabilmente capiva:
+                     (0,7)
+096 AUR_TRAS         la nostra situazione
+                     (1,2)
+097 AUR_TRAS         e lei eh è sempre stata vicino a noi
+                     (5,1)
+098 AUR_TRAS         poi cambiai paese sempre
+                     (0,5)
+099 AUR_TRAS          nella: sempre a Mongrando
+                     (0,2)
+100 AUR_TRAS         comune di Mongrando ma
+101 Other_Gestures   TESTA: scuote la testa; SPALLE: scrolla le spalle
+102 AUR_TRAS         in un'altra scuola
+                     (0,6)
+103 AUR_TRAS         e lì invece 
+                     (1,3)
+104 AUR_TRAS         eh: scuola di Curanuova
+                     (1,6)
+105 AUR_TRAS         e lì
+                     (0,4)
+106 AUR_TRAS         è st- è stato una cosa tremenda
+107 Other_Gestures   TESTA: scuote la testa
+108 AUR_TRAS         di:
+                     (0,3)
+109 AUR_TRAS         i veneti proprio
+                     (0,4)
+110 AUR_TRAS         un po' come i meridionali non erano accettati per niente
+111 Other_Gestures   TESTA: scuote la testa
+                     (1,1)
+112 AUR_TRAS         eh
+                     (1,1)
+113 AUR_TRAS         si si venivano un po' catalogati
+                     (1,3)
+114 AUR_TRAS         eh
+                     (0,4)
+115 AUR_TRAS         eravamo: messi sempre da parte non eravamo seguiti neanche dagli insegnati
+116 Other_Gestures   TESTA: scuote la testa
+                     (1,0)
+117 AUR_TRAS         si facevan delle cattiverie uniche
+                     (1,2)
+118 Other_Gestures   TESTA: muove avanti e indietro
+119 AUR_TRAS         tipo:
+                     (0,6)
+120 AUR_TRAS         lasciarsi insultare dai compagni di classe
+                     (0,6)
+121 AUR_TRAS         prendere in giro il proprio cognome
+                     (1,2)
+122 AUR_TRAS         e
+                     (0,1)
+123 AUR_TRAS         eh
+                     (0,3)
+124 AUR_TRAS         non poter dire niente
+                     (1,5)
+125 AUR_TRAS         poi qualche volta c'era anche qualche insegnante che aveva anche le mani un po' pesanti
+                     (2,0)
+126 Other_Gestures   TESTA: annuisce 
+127 AUR_TRAS         eh
+128 AUR_TRAS         più di qualche volta
+                     (1,1)
+129 AUR_TRAS         a me successe un fatto particolare
+                     (1,6)
+130 AUR_TRAS         c'era un'insegnante che arrivava da Biella
+                     (0,3)
+131 AUR_TRAS         dalla città
+                     (0,9)
+132 AUR_TRAS         lei era mh
+                     (0,8)
+133 Other_Gestures   TESTA: scuote e abbassa la testa
+134 AUR_TRAS         diversa da tutti gli insegnanti che av- c'erano erano passati nelle scuole
+135 Other_Gestures   TESTA: scuote la testa piegata verso il basso
+                     (0,7)
+136 AUR_TRAS         e eh
+                     (0,4)
+137 Other_Gestures   TESTA: mento all'insù
+138 AUR_TRAS         amava
+139 AUR_TRAS         suon- sentir suonare l'inno di Mameli
+                     (1,5)
+140 AUR_TRAS         e allora lei portò un mi- un un grammofono
+                     (0,9)
+141 AUR_TRAS         i dischi
+                     (0,7)
+142 AUR_TRAS         e esc- asc- ci fece ascoltare queste canzoni ma voleva che noi cantassimo
+                     (0,6)
+143 AUR_TRAS         anche noi
+                     (2,2)
+144 AUR_TRAS         e allora noi cantavamo
+145 Other_Gestures   TESTA: annuisce
+                     (1,5)
+146 AUR_TRAS         a me ha detto di stare zitta perché ero stonata
+147 Other_Gestures   TESTA: piegata verso il basso
+                     (1,8)
+148 AUR_TRAS         e allora
+                     (0,4)
+149 AUR_TRAS         stetti zitta
+                     (2,0)
+150 AUR_TRAS         ad un certo punto le mi dice ma perchè non canti
+                     (0,3)
+151 AUR_TRAS         eh lei mi ha detto le ho detto mi scusi ma
+                     (0,5)
+152 AUR_TRAS         lei mi ha detto di non cantare perchè sono stonata
+                     (0,7)
+153 AUR_TRAS         e lei a tutta risposta
+                     (1,3)
+154 AUR_TRAS         mi ha dato un manrovescio
+                     (0,7)
+155 AUR_TRAS         sul viso
+                     (0,3)
+156 AUR_TRAS         solo che aveva un anello
+                     (1,9)
+157 AUR_TRAS         con la punta
+                     (0,2)
+158 AUR_TRAS         aveva la pietra gialla
+                     (0,5)
+159 AUR_TRAS         con la punta e mi bucò una guancia
+                     (1,5)
+160 AUR_TRAS         io non me ne accorsi
+161 Other_Gestures   TESTA: scuote la testa
+                     (0,8)
+162 AUR_TRAS         probabilmente la paura o non lo so
+                     (0,6)
+163 AUR_TRAS         comunque scendeva scendenva il sangue
+                     (0,1)
+164 AUR_TRAS         eh eh la mia compagna vicino
+                     (0,6)
+165 AUR_TRAS         mi disse eh eh scende sangue
+                     (1,4)
+166 AUR_TRAS         eh ma io la paura era talmente tanta che n-
+167 Other_Gestures   TESTA: abbassa la testa
+                     (0,6)
+168 AUR_TRAS         non ho badato a nulla
+                     (0,8)
+169 AUR_TRAS         comunque
+                     (0,5)
+170 AUR_TRAS         ehm allora lei si fermò
+                     (0,9)
+171 AUR_TRAS         mi diede un fazzoletto
+                     (1,0)
+172 AUR_TRAS         e:
+                     (0,5)
+173 AUR_TRAS         p- sm- smise di suonare
+174 Other_Gestures   TESTA: scuote la testa
+175 AUR_TRAS         ha spento il grammofono
+                     (0,6)
+176 AUR_TRAS         continuammo la lezione
+                     (0,7)
+177 AUR_TRAS         quando andai a casa
+                     (0,6)
+178 AUR_TRAS         la mamma mi disse ma
+                     (0,8)
+179 AUR_TRAS         cosa hai fatto alla guancia
+                     (0,7)
+180 AUR_TRAS         mah le ho detto niente
+181 Other_Gestures   TESTA: scuote la testa
+                     (1,7)
+182 AUR_TRAS         come niente
+                     (0,8)
+183 AUR_TRAS         mi fa
+                     (0,2)
+184 AUR_TRAS         eh no no non ho fatto proprio niente ma hai sgridato con qualche compagno di classe no
+                     (3,1)
+185 AUR_TRAS         mah
+                     (1,0)
+186 AUR_TRAS         non contenta
+                     (0,6)
+187 AUR_TRAS         il giorno dopo
+                     (0,5)
+188 AUR_TRAS         al mattino venne a scuola
+                     (0,7)
+189 AUR_TRAS         allora delle bimbe che erano li vicino a me
+                     (0,5)
+190 AUR_TRAS         mi guardavano e guardavano la mamma
+                     (0,2)
+191 AUR_TRAS         e allora lei fa
+                     (0,6)
+192 AUR_TRAS         mah ne avete conbinata qualcuna voi
+                     (1,6)
+193 AUR_TRAS         no no
+                     (0,5)
+194 AUR_TRAS         è stata la maestra che l'ha combinata non noi
+                     (1,2)
+195 AUR_TRAS         disse così
+                     (0,9)
+196 AUR_TRAS         allora: disse alla maestra ma cosa ha fatto mia figlia
+                     (1,2)
+197 AUR_TRAS         lei le ha detto mah è stato così mi è scappata la mano ha cercato di giustificarsi
+                     (0,7)
+198 AUR_TRAS         e lì così
+                     (0,9)
+199 AUR_TRAS         non se ne fece più nulla
+                     (0,4)
+200 AUR_TRAS         e:
+                     (1,1)
+201 AUR_TRAS         non finì la: il mese di scuola
+                     (0,7)
+202 AUR_TRAS         perché il provvidorato probabilmente la aveva spostata
+203 Other_Gestures   SPALLE: scrolla le spalle
+                     (1,1)
+204 AUR_TRAS         questo è stato molto brutto ma di questo è stato solo una piccola goccia
+                     (1,0)
+205 AUR_TRAS         perchè le altre cose forse fanno più male senza essere solo
+206 Other_Gestures   TESTA: scuote la testa
+                     (0,5)
+207 AUR_TRAS         diciamo materiali
+                     (0,2)
+208 AUR_TRAS         ma le cose morali sì
+                     (0,3)
+209 AUR_TRAS         fanno molto male
+                     (0,6)
+210 AUR_TRAS         poi pian pianino si impara anche che
+                     (0,6)
+211 AUR_TRAS         si lasciano anche correre
+                     (0,5)
+212 AUR_TRAS         anche se si è bambini ma i bambini sanno essere molto cattivi
+213 Other_Gestures   TESTA: annuisce
+                     (0,9)
+214 AUR_TRAS         anche se qualche volta
+                     (0,8)
+215 AUR_TRAS         diciamo così
+                     (0,7)
+216 AUR_TRAS         se l'istituzione
+                     (1,8)
+217 AUR_TRAS         parlo della mia epoca avesse dato probabilmente una mano
+                     (0,2)
+218 AUR_TRAS         non ci sarebbero state tante divergenze
+                     (0,6)
+219 AUR_TRAS         con con i bambini e con le loro
+                     (0,5)
+220 AUR_TRAS         da dove venivano
+                     (0,6)
+221 AUR_TRAS         o com'erano
+                     (1,1)
+222 AUR_TRAS         nel mio caso non c'ero solo io eravamo in cinque o sei in una classe eravamo tutti uguali così
+223 Other_Gestures   TESTA: annuisce
+224 Other_Gestures   TESTA: scuote la testa
+                     (1,1)
+225 AUR_TRAS         perciò non era stata una brutta avventura
+                     (0,8)
+226 AUR_TRAS         il che eh
+                     (0,5)
+227 AUR_TRAS         portò a non avere tanta fiducia nella scuola
+228 Other_Gestures   TESTA: scuote la testa
+                     (1,0)
+229 AUR_TRAS         questo sì
+                     (1,1)
+230 AUR_TRAS         e quando:
+                     (1,9)
+231 AUR_TRAS         finii la quinta
+                     (1,3)
+232 Other_Gestures   TESTA: scuote la testa
+233 AUR_TRAS         non vol- n- non ho più voluto proseguire
+                     (1,0)
+234 Other_Gestures   TESTA: annuisce
+235 AUR_TRAS         mia mamma mi aveva già iscritta per proseguire e io non  ho più voluto ho voluto andare a lavorare veramente era già quasi sei mesi che lavoravo già
+236 Other_Gestures   TESTA: scuote la testa
+237 Other_Gestures   TESTA: annuisce
+                     (1,3)
+238 AUR_TRAS         andavo a lavorare in una piccola fabbrica a ore
+                     (1,4)
+239 AUR_TRAS         alternate e poi dopo: si lavorava tutto il giovedì
+                     (0,4)
+240 AUR_TRAS         perché
+                     (0,3)
+241 AUR_TRAS         il giovedì non si faceva scuola
+                     (0,6)
+242 AUR_TRAS         all'epoca
+                     (0,2)
+243 AUR_TRAS         e il sabato pomeriggio
+                     (1,1)
+244 AUR_TRAS         e la domenica mattina si andava sempre a lavorare
+245 Other_Gestures   TESTA: scuote la testa
+                     (0,7)
+246 AUR_TRAS         e abbiamo imparato ho imparato a fare tante cose
+                     (1,4)
+247 AUR_TRAS         proprio eh
+                     (1,3)
+248 AUR_TRAS         dalle piccole cose come timbrare delle fascette per i gomitoli
+                     (1,3)
+249 AUR_TRAS         a lavorare nella macchina per fare i gomitoli
+                     (0,2)
+250 AUR_TRAS         a lavorare nella macchina per fare le matasse 
+                     (0,8)
+251 AUR_TRAS         per districare le matasse
+                     (1,1)
+252 AUR_TRAS         per fare il vuotavasi
+                     (0,1)
+253 AUR_TRAS         cioè
+                     (0,2)
+254 AUR_TRAS         dalla
+                     (0,3)
+255 AUR_TRAS         dal ehm
+                     (0,7)
+256 AUR_TRAS         dalla grande matassa un vaso
+                     (0,3)
+257 AUR_TRAS         sotto scendeva andava dentro e poi si metteva nella gomitolatrice
+                     (0,6)
+258 AUR_TRAS         e di lì si facevano i gomitoli
+                     (0,7)
+259 AUR_TRAS         a delle cose:
+                     (0,9)
+260 AUR_TRAS         cose che siccome noi eravamo veneti si poteva andare anche di inverno a raccogliere la resina negli alberi per poter fare la colla
+261 Other_Gestures   TESTA: annuisce
+                     (0,1)
+262 Other_Gestures   SPALLE: scrolla le spalle
+263 AUR_TRAS         tanto andava bene così
+                     (4,3)
+264 AUR_TRAS         pagati niente
+265 Other_Gestures   TESTA: scuote la testa
+                     (1,2)
+266 AUR_TRAS         eh e di e così andando avanti
+                     (1,2)
+267 AUR_TRAS         rubai tutti i lavori possibili
+268 Other_Gestures   TESTA: scuote la testa, mento sollevato
+                     (1,4)
+269 AUR_TRAS         perchè era la cosa più bella che mi riusciva di fare di riscattarmi con tutto quello che dicevano dei veneti
+                     (0,9)
+270 AUR_TRAS         che venivano su per poter portare via il lavoro agli altri
+                     (1,8)
+271 AUR_TRAS         e anche eh
+                     (0,9)
+272 AUR_TRAS         per essere proprio diversi per distinguersi per fare del clan e questo non era vero
+273 Other_Gestures   TESTA: scuote la testa
+                     (1,0)
+274 AUR_TRAS         perché noi fra di noi cercavamo eravamo tutti poveri e ci aiutavamo tutti
+                     (0,8)
+275 AUR_TRAS         perciò dal lavoro più misero al lavoro diciamo che poteva essere anche di concetto
+                     (1,4)
+276 AUR_TRAS         e così imparai a fare tantissime cose
+                     (1,6)
+277 AUR_TRAS         e cambiai sempre lavori perchè poi dopo
+                     (0,4)
+278 AUR_TRAS         non pagandoti, quando andavi a casa non è che portassi chissà che cosa facevi dodici quindici diciotto ore al giorno anche
+                     (1,2)
+279 AUR_TRAS         per tremila lire al mese
+                     (0,7)
+280 AUR_TRAS         a quell'epoca là
+281 Other_Gestures   TESTA: annuisce
+                     (0,9)
+282 AUR_TRAS         sessanta: due sessantre
+                     (1,8)
+283 AUR_TRAS         eh io sono nata nel cinquanta avevo dodici anni
+                     (2,0)
+284 AUR_TRAS         una cosa:
+                     (0,3)
+285 AUR_TRAS         a dodici anni avevo le chiavi di una fabbrica per poterla aprire alle sei
+                     (2,1)
+286 AUR_TRAS         e di lì eh ebbi una brutta avventura un giorno
+                     (0,6)
+287 AUR_TRAS         entrai come tutte le volte
+288 Other_Gestures   TESTA: scuote la testa
+                     (0,3)
+289 Speaker2         lo puoi raccontare in veneto?
+                     (0,2)
+290 AUR_TRAS         in v- non ci riesco
+                     (0,0)
+291 Speaker2         non ci riesci
+                     (0,1)
+292 AUR_TRAS         son venuta su troppo piccolina e in casa non abbiamo mai parlato tanto #il dialetto#
+293 Speaker2         #allora# riprendi a sei anni a dodici anni avevo le chiavi
+294 Other_Gestures   TESTA: annuisce
+295 AUR_TRAS         avevo le chiavi di questa fabbrica
+                     (1,3)
+296 AUR_TRAS         però alla sera si disinserivano tutti le eh
+                     (1,1)
+297 AUR_TRAS         l- eh come le spine dalle delle macchine venivano tolte da questi bocchettoni
+                     (0,4)
+298 AUR_TRAS         perché non c'eran sicurezza
+                     (0,3)
+299 AUR_TRAS         e allora non c'erano allarmi non c'era nulla
+                     (0,8)
+300 AUR_TRAS         eh al mattino per poter mettere questi bocchettoni delle macchine dovevo salire su 
+                     (0,7)
+301 AUR_TRAS         una specie di tavolo di legno
+                     (0,6)
+302 AUR_TRAS         io salii sopra
+                     (0,8)
+303 AUR_TRAS         ma quando misi la mano con il
+                     (0,4)
+304 AUR_TRAS         per inserire dentro la spina ci infilai le dita
+                     (1,4)
+305 AUR_TRAS         e di lì presi una scossa enorme che mi buttò lontana tre o quattro metri
+                     (0,7)
+306 AUR_TRAS         andai a finire sotto una macchina dove io facevo rocche
+                     (0,5)
+307 AUR_TRAS         e lì rimasi per due ore
+                     (0,8)
+308 AUR_TRAS         finché alle otto arrivarono gli altri operai e mi trovarono lì
+                     (0,6)
+309 Other_Gestures   SPALLE: scrolla le spalle; TESTA: scuote la testa
+310 AUR_TRAS         e con questo ma eravamo veneti si poteva fare
+311 Other_Gestures   TESTA: scuote la testa
+                     (1,1)
+312 AUR_TRAS         questo era molto brutto
+                     (2,0)
+313 Other_Gestures   SPALLE: scrolla le spalle
+314 AUR_TRAS         di altre cose ce ne sono state
+                     (0,1)
+315 AUR_TRAS         eh anc-
+316 Other_Gestures   SPALLE: scrolla le spalle
+317 AUR_TRAS         altre
+                     (0,7)
+318 AUR_TRAS         ma:
+                     (0,2)
+319 AUR_TRAS         diciamo così che: crescendo
+                     (0,4)
+320 AUR_TRAS         ho riscattato tutto
+                     (0,8)
+321 AUR_TRAS         ci siamo ritrovati alla pari con tutto
+322 Other_Gestures   TESTA: scuote la testa
+                     (1,6)
+323 AUR_TRAS         eh
+                     (0,8)
+324 AUR_TRAS         mi sono sposata molto giovane
+                     (1,1)
+325 AUR_TRAS         sedici anni
+                     (2,2)
+326 AUR_TRAS         eh ebbi una bellissima bambina
+                     (2,1)
+327 AUR_TRAS         poi a ventun anni ne ebbi un'altra
+                     (1,2)
+328 AUR_TRAS         avevo al all'epoca
+                     (0,3)
+329 AUR_TRAS         avevo imparato a rammendare facevo la rammendatrice in una ditta
+                     (0,3)
+330 AUR_TRAS         mentre ero incinta presi
+                     (0,6)
+331 AUR_TRAS         eh
+                     (1,5)
+332 AUR_TRAS         io non avevo fa avevo fatto solo la quinta allora ho preso l'avviamento
+                     (0,3)
+333 AUR_TRAS         ho fatto la sesta e il mio datore di lavoro
+                     (0,7)
+334 AUR_TRAS         mi disse che dopo due mesi ero idonea andava benissimo com'ero
+335 Other_Gestures   TESTA: scuote la testa
+                     (0,7)
+336 AUR_TRAS         e mi dette subito
+                     (0,3)
+337 AUR_TRAS         io ah
+                     (0,5)
+338 AUR_TRAS         sedici anni
+                     (0,3)
+339 AUR_TRAS         e un giorno
+                     (0,3)
+340 AUR_TRAS         ero operaia a tutti gli effetti che non lo davano fino al diciottesimo anno di età
+                     (2,2)
+341 AUR_TRAS         e questa è
+                     (0,4)
+342 AUR_TRAS         è stata la: la mia esperienza diciamo
+                     (0,9)
+343 Other_Gestures   SPALLE: scrolla le spalle
+344 AUR_TRAS         di quando sono arrivata qui
+                     (0,1)
+345 Other_Gestures   TESTA: scuote la testa
+346 AUR_TRAS         il dopo no
+                     (0,5)
+347 AUR_TRAS         il dopo tutto è proseguito tranquillamente
+                     (0,1)
+348 AUR_TRAS         e:
+                     (0,2)
+349 AUR_TRAS         diciamo dentro la normalità di qualsiasi persona
+350 Other_Gestures   TESTA: scuote la testa
+                     (2,6)
+351 Speaker2         cosa mangiavate? cos'era il cibo che mangiavate quando eravate piccoli?
+352 AUR_TRAS         oh il cibo che #mangiavamo#
+353 Speaker2         #se te lo ricordi# in veneto okay
+                     (0,1)
+354 AUR_TRAS         LAUGH
+                     (0,2)
+355 Speaker2         quand'ero piccola quando eravamo piccoli
+                     (0,2)
+356 AUR_TRAS         ehm
+                     (0,1)
+357 AUR_TRAS         il latte
+                     (0,1)
+358 Speaker2         quando eravamo piccoli
+                     (0,2)
+359 AUR_TRAS         eh
+                     (0,1)
+360 Speaker2         quando eravamo pi- mi riprendi la #domanda#
+361 AUR_TRAS         sì
+                     (0,1)
+362 AUR_TRAS         quando eravamo piccoli
+                     (0,3)
+363 AUR_TRAS         latte
+                     (0,2)
+364 AUR_TRAS         al mattino
+                     (0,5)
+365 AUR_TRAS         e basta
+366 Other_Gestures   TESTA: scuote la testa
+                     (1,7)
+367 AUR_TRAS         a mezzogiorno
+                     (1,2)
+368 AUR_TRAS         un minestrone se c'era tutta la verdura o una minestra
+                     (0,9)
+369 AUR_TRAS         basta
+370 Other_Gestures   TESTA: scuote la testa
+                     (2,5)
+371 AUR_TRAS         non ho #ca-#
+372 Speaker2         #ingredie-# ingredienti
+                     (0,2)
+373 AUR_TRAS         ah gli ingredienti
+                     (1,0)
+374 AUR_TRAS         ah della minestra
+375 Other_Gestures   TESTA: scuote la testa
+376 AUR_TRAS         spesso era
+                     (0,5)
+377 AUR_TRAS         ehm
+                     (0,5)
+378 AUR_TRAS         riso
+                     (0,6)
+379 AUR_TRAS         e piselli
+                     (1,0)
+380 AUR_TRAS         pasta e fagioli
+                     (1,9)
+381 AUR_TRAS         poi ehm cosa mangiavamo i cavoli
+                     (0,9)
+382 AUR_TRAS         con con riso e la cipolla
+                     (2,1)
+383 AUR_TRAS         o la peperonata
+                     (0,7)
+384 AUR_TRAS         quando c'era la peperonata
+                     (2,2)
+385 AUR_TRAS         si mangiava anche a merenda
+                     (0,7)
+386 AUR_TRAS         perché non c'era la merenda
+                     (0,4)
+387 AUR_TRAS         c'era solo una ciotola con la peperonata
+                     (1,2)
+388 AUR_TRAS         e ehm alla sera
+                     (1,8)
+389 AUR_TRAS         la pastasciutta poca
+                     (1,1)
+390 AUR_TRAS         poca
+                     (0,5)
+391 AUR_TRAS         non mai la carne
+392 Other_Gestures   TESTA: scuote la testa 
+393 AUR_TRAS         perchè non si mangiava carne
+                     (1,3)
+394 AUR_TRAS         solo con un po' di pomodoro
+                     (0,8)
+395 AUR_TRAS         e basta
+                     (1,1)
+396 AUR_TRAS         e della polenta perchè la sera si mangiava sempre della polenta
+                     (1,4)
+397 AUR_TRAS         non molta ma polenta
+                     (1,1)
+398 AUR_TRAS         nel pomeriggio qualche volta mezza mela
+                     (0,6)
+399 AUR_TRAS         niente altro
+400 Other_Gestures   TESTA: scuote la testa
+                     (0,6)
+401 AUR_TRAS         i dolci solo a natale perchè li faceva prima la nonna e poi la mamma
+402 Other_Gestures   TESTA: muove la testa a sinistra e poi a destra
+                     (2,1)
+403 AUR_TRAS         faceva dei
+                     (0,7)
+404 AUR_TRAS         dolcetti particolari fatti ad esse sembravano delle pastefrolli
+                     (0,8)
+405 AUR_TRAS         e si facevano proprio sulla stufa
+                     (0,7)
+406 AUR_TRAS         non nel forno
+                     (0,9)
+407 AUR_TRAS         mettevano una carta oleata e li facevano sulla stufa
+                     (0,9)
+408 AUR_TRAS         quello nelle feste natalizie
+                     (1,0)
+409 AUR_TRAS         e basta
+                     (2,4)
+410 Speaker2         farina gialla o bianca?
+                     (0,2)
+411 AUR_TRAS         prego?
+                     (0,2)
+412 Speaker2         farina gialla o farina bianca la polenta la polenta #era#
+413 AUR_TRAS         #farina sia#
+414 Speaker2         #no la po-# la polenta era
+                     (0,1)
+415 AUR_TRAS         la polenta era sia gialla che bianca allora gialla tutte le sere e bianca la domenica
+                     (2,9)
+416 AUR_TRAS         qualche volta s-
+                     (1,1)
+417 AUR_TRAS         con il baccalà
+                     (0,9)
+418 AUR_TRAS         perché spesso mangiavamo pesce
+                     (0,9)
+419 AUR_TRAS         perché il mio papà aveva trovato una persona che arrivava dal Veneto e due volte alla settimana ci portava il pesce fresco
+                     (1,9)
+420 AUR_TRAS         e allora lui in cambio
+                     (1,4)
+421 AUR_TRAS         faceva dei lavori
+                     (1,0)
+422 AUR_TRAS         per questa persona
+                     (0,3)
+423 AUR_TRAS         si aiutavano a vicenda
+                     (1,0)
+424 AUR_TRAS         lui aveva faceva di tutto
+                     (0,9)
+425 AUR_TRAS         lui era carpentiere
+                     (1,6)
+426 AUR_TRAS         e aiutava chi aveva la casa da sistemare
+                     (0,8)
+427 AUR_TRAS         aiutava loro ha imparato a fare il calzolaio perciò ci aggiustava le scarpe
+                     (1,2)
+428 AUR_TRAS         faceva l'imbianchino
+                     (0,8)
+429 Other_Gestures   TESTA: scuote la testa
+430 AUR_TRAS         e ha sempre proseguito così fin quando siamo cresciuti e poi ognuno di noi ha portato diciamo la sua
+                     (0,9)
+431 AUR_TRAS         il suo mh
+                     (1,6)
+432 AUR_TRAS         la sua parte diciamo così di denaro in casa per poter vivere
+                     (0,4)
+433 AUR_TRAS         ma altrimenti ha sempre fatto di tutto e allora c'era quel poco sempre suddiviso
+434 Other_Gestures   TESTA: scuote la testa
+                     (1,0)
+435 AUR_TRAS         e sempre con il ricambio e l'aiuto di altre persone come noi
+436 Other_Gestures   TESTA: scuote la testa
+                     (1,3)
+437 Speaker2         un ricordo bello di quando/ della tua esperienza da immig- qui a Biella un ricordo bello
+                     (0,3)
+438 AUR_TRAS         mah un ricordo bello qui a Biella
+                     (0,9)
+439 Other_Gestures   TESTA: scuote la testa
+440 AUR_TRAS         prima di tutto il posto perché è bellissimo Biella è bellissima
+                     (1,5)
+441 AUR_TRAS         poi eh
+                     (2,2)
+442 AUR_TRAS         forse perché sono cresciuta qua
+                     (1,2)
+443 AUR_TRAS         e quando ho imparato ad apprezzare anche le persone che c'erano qua
+                     (0,9)
+444 AUR_TRAS         ho trovato che erano
+                     (1,4)
+445 AUR_TRAS         ho trovato diciamo così quell'allegria quella spensieratezza che
+                     (0,4)
+446 Other_Gestures   TESTA: scuote la testa
+447 AUR_TRAS         prima non c'era e questo era molto bello perché poi noi eravamo
+448 Other_Gestures   TESTA: annuisce
+                     (1,4)
+449 AUR_TRAS         sempre con amici e amiche non eravamo mai solitari
+                     (0,6)
+450 AUR_TRAS         perciò la compagnia contava molto per noi
+                     (1,0)
+451 AUR_TRAS         quelli son stati molto bello
+                     (1,2)
+452 Speaker2         quali erano i giochi che facevate quando eravate piccoli? quando eravamo piccoli
+                     (0,2)
+453 AUR_TRAS         quando eravamo piccoli eh facevamo
+                     (0,4)
+454 AUR_TRAS         giocavamo alla campana
+                     (1,6)
+455 AUR_TRAS         alla settimana
+                     (1,7)
+456 AUR_TRAS         a pallone
+                     (2,2)
+457 AUR_TRAS         e:
+                     (1,1)
+458 AUR_TRAS         avevamo o: diciamo dove potevamo trovare per mettere un seggiolino e della corda per fare l'altalena
+                     (0,2)
+459 AUR_TRAS         quello piaceva moltissimo a noi
+460 Other_Gestures   TESTA: scuote la testa
+                     (1,3)
+461 AUR_TRAS         e anche:
+                     (1,7)
+462 AUR_TRAS         come si può dire
+                     (0,9)
+463 AUR_TRAS         son andare alla ricerca di quelle cose
+                     (0,6)
+464 AUR_TRAS         di quei giochi
+                     (0,2)
+465 AUR_TRAS         che ci erano qui 
+                     (0,5)
+466 AUR_TRAS         nel Piemonte
+                     (1,0)
+467 AUR_TRAS         però non c'erano eravamo tutti abbas- abbastanza piccoli e quando siamo cresciuti poi non ci s- abbiamo perso questa eh tutte queste cose anche perchè il lavoro ha inciso parecchio
+468 Other_Gestures   TESTA: scuote la testa
+469 Other_Gestures   TESTA: annuisce
